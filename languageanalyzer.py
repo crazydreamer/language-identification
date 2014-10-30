@@ -1,12 +1,10 @@
-# Todo: Fix punctuation in words (e.g I've), either by adding these to the word files (ive) or by adding extra code to translate from contraction to separate words
-
 import string
 import math
 import operator
 
 def getlang(sentence, data, allwords):
 	wordsinsentence = sentence.count(" ") + 1
-	bestrelevance = - 10000 # wordsinsentence * 5.0
+	bestrelevance = - 10000
 	bestlang = 'unknown'
 	relevanceCollection = {}
 	for abr in langabbreviations:
@@ -23,8 +21,6 @@ def getlang(sentence, data, allwords):
 				wordincorpusfreq = float(allwords[word])
 			relevance += math.log(wordinlangfreq)
 			relevance -= math.log(wordincorpusfreq)
-			#print abr + ':' + word + ':' + str(wordinlangfreq) + ':' + str(wordincorpusfreq)
-		#print abr + str(relevance)
 		if bestrelevance < relevance:
 			bestrelevance = relevance
 			bestlang = abr
@@ -32,10 +28,11 @@ def getlang(sentence, data, allwords):
 	relevanceCollection = sorted(relevanceCollection.items(), key=operator.itemgetter(1), reverse=True)
 	if (bestrelevance < 0.0 or (relevanceCollection[0][1] * 0.9) <= relevanceCollection[1][1]):
 		bestlang = 'unknown'
-	return [bestlang,bestrelevance,relevanceCollection]
+	difference = relevanceCollection[0][1] - relevanceCollection[1][1]
+	return [bestlang,bestrelevance,difference,relevanceCollection]
 
 langabbreviations = ['ara','bul','bos','ces','dan','deu','ell','eng','spa','est','fin','fra','heb','hrv','hun','isl','ita','lit','lav','mkd','msa','nob','nld','pol','por','ron','rus','slk','slv','sqi','srp','swe','tur','ukr','zho']
-# langabbreviations = ['dan','deu','ell','eng','fra','ita','rus','spa']
+codetolang = {'ara' : 'arabic','bul' : 'bulgarian','bos' : 'bosnian','ces' : 'czech','dan' : 'danish','deu' : 'german','ell' : 'greek','eng' : 'english','spa' : 'spanish','est' : 'estonian','fin' : 'finnish','fra' : 'french','heb' : 'hebrew','hrv' : 'croatian','hun' : 'hungarian','isl' : 'icelandic','ita' : 'italian','lit' : 'lithuanian','lav' : 'latvian','mkd' : 'macedonian','msa' : 'malay','nob' : 'norwegian','nld' : 'dutch','pol' : 'polish','por' : 'portuguese','ron' : 'romanian','rus' : 'russian','slk' : 'slovak','slv' : 'slovenian','sqi' : 'albanian','srp' : 'serbian','swe' : 'swedish','tur' : 'turkish','ukr' : 'ukrainian','zho' : 'chinese'}
 data = {}
 allwords = {}
 
@@ -54,7 +51,6 @@ for abr in langabbreviations:
 		numwords += 1
 		if numwords > MAX_WORDS_PER_LANGUAGE: break
 	totalnumwords += data[abr]['numwords']
-print 'Loaded number of words'
 
 # Calculate each word's uncorrected observed frequency
 for abr in langabbreviations:
@@ -71,20 +67,13 @@ for abr in langabbreviations:
 			allwords[word] = int(line.split()[1])
 		numwords += 1
 		if numwords > MAX_WORDS_PER_LANGUAGE: break
-		#print word + ':' + str(data[abr]['words'][word])
-print 'Calculated all word\'s uncorrected observed frequency'
 
 # Turn the total word frequencies into a weighted frequency
 for word in allwords:
 	count = allwords[word]
 	allwords[word] = float(count) / totalnumwords
-	#print word + ':' + str(data['total']['words'][word])
 
-	
-# sentence = 'Mi aerodeslizador esta lleno de anguilas.'
-# sentence = 'Voy a mi casa.'
-# sentence = 'How could you say such a thing to my teacher, who does not nothing of such matters'
-
+badsentences = []
 numcorrect = 0
 numincorrect = 0
 numunknown = 0
@@ -96,20 +85,25 @@ for line in f:
 	# Only check languages that we have a model for
 	if reallang not in langabbreviations:
 		continue
-	sentence = line.split("\t")[2]
+	sentence = line.split("\t")[2].rstrip()
 	l = getlang(sentence, data, allwords)
 	estlang = l[0]
 	estrelevance = l[1]
+	difference = l[2]
 	if estlang == 'unknown':
 		numunknown += 1
-		#print '*',
 	elif reallang == estlang:
 		numcorrect += 1
 	elif reallang != estlang:
 		numincorrect += 1
-		print '***' + reallang + ':' + estlang + ':' + str(estrelevance) + ':' + sentence,
-	#print reallang + ':' + estlang + ':' + str(estrelevance) + ':' + sentence,
-	if (numcorrect + numincorrect + numunknown) % 10000 == 0:
-		print str(numcorrect) + ' correct, ' + str(numincorrect) + ' incorrect, ' + str(numunknown) + ' unknown'
+		badsentences.append([sentence, difference, reallang, estlang, estrelevance, id])
 
 print str(numcorrect) + ' correct, ' + str(numincorrect) + ' incorrect, ' + str(numunknown) + ' unknown'
+print ''
+badsentences.sort(key=lambda tup: tup[1], reverse=True)
+for b in badsentences:
+	print b[0]
+	print "\tCurrent Language: " + codetolang[b[2]]
+	print "\tSuggested Language: " + codetolang[b[3]]
+	print "\tURL: http://tatoeba.org/eng/sentences/show/" + b[5] + "\n"
+exit()
