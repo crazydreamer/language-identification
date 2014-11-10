@@ -43,7 +43,7 @@ MAX_WORDS_PER_LANGUAGE = 50000
 for abr in langabbreviations:
 	data[abr] = {}
 	data[abr]['numwords'] = 0
-	filename = abr + '.txt'
+	filename = 'dict/' + abr + '.txt'
 	f = open(filename, 'r')
 	numwords = 0
 	for line in f:
@@ -55,7 +55,7 @@ for abr in langabbreviations:
 # Calculate each word's uncorrected observed frequency
 for abr in langabbreviations:
 	data[abr]['words'] = {}
-	filename = abr + '.txt'
+	filename = 'dict/' + abr + '.txt'
 	f = open(filename, 'r')
 	numwords = 0
 	for line in f:
