@@ -1,9 +1,10 @@
+ #!/usr/bin/python
+
 import string
 import math
 import operator
 
 def getlang(sentence, data, allwords):
-	wordsinsentence = sentence.count(" ") + 1
 	bestrelevance = - 10000
 	bestlang = 'unknown'
 	relevanceCollection = {}
@@ -51,6 +52,7 @@ for abr in langabbreviations:
 		numwords += 1
 		if numwords > MAX_WORDS_PER_LANGUAGE: break
 	totalnumwords += data[abr]['numwords']
+	f.close()
 
 # Calculate each word's uncorrected observed frequency
 for abr in langabbreviations:
@@ -67,6 +69,7 @@ for abr in langabbreviations:
 			allwords[word] = int(line.split()[1])
 		numwords += 1
 		if numwords > MAX_WORDS_PER_LANGUAGE: break
+	f.close()
 
 # Turn the total word frequencies into a weighted frequency
 for word in allwords:
@@ -77,7 +80,7 @@ badsentences = []
 numcorrect = 0
 numincorrect = 0
 numunknown = 0
-f = open('sentences.csv', 'r', 1)
+f = open('sentencessegment.csv', 'r', 1)
 for line in f:
 	id = line.split("\t")[0]
 	reallang = line.split("\t")[1]
@@ -97,6 +100,7 @@ for line in f:
 	elif reallang != estlang:
 		numincorrect += 1
 		badsentences.append([sentence, difference, reallang, estlang, estrelevance, id])
+f.close()
 
 print str(numcorrect) + ' correct, ' + str(numincorrect) + ' incorrect, ' + str(numunknown) + ' unknown'
 print ''
