@@ -1,699 +1,14 @@
-77004 correct, 846 incorrect, 2470 unknown
-
-Не мењајте реченице које су исправне. Али ви имате право да пошаљете алтернативне преводе који природно звуче.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1055698
-
-Више од 40 одсто студената иде на универзитет.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1050470
+76091 correct, 279 incorrect, 1949 unknown
 
 Likewise , it was nice to meet you
 	Current Language: albanian
 	Suggested Language: english
 	URL: http://tatoeba.org/eng/sentences/show/1119452
 
-Све што ви треба да урадите, јесте да притиснете то црвено дугме.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1053934
-
-Болничарка је користила мерач притиска како би утврдила мој крвни притисак.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1076611
-
-Познајемо више од 100 милијарди галаксија.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1060993
-
-Колико сте фунти тешки?
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1066192
-
-Ако рано почнемо, можемо завршити до ручка.
-	Current Language: serbian
-	Suggested Language: ukrainian
-	URL: http://tatoeba.org/eng/sentences/show/1056914
-
-Аутобус има педесет седишта.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1059331
-
-Ја волим сир, чак много више колаче од сира.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1055500
-
-Ви се узалуд трудите – ваша жалба је неоснована.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1054905
-
-Ти знаш да пливаш, а ја не.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1091388
-
-Здрав дух у здравом телу.
-	Current Language: serbian
-	Suggested Language: russian
-	URL: http://tatoeba.org/eng/sentences/show/1053818
-
-"Здрав дух у здравом телу."
-	Current Language: serbian
-	Suggested Language: russian
-	URL: http://tatoeba.org/eng/sentences/show/1149289
-
-Постоје многи пагански богови.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1139249
-
-Ваши црвени образи показују невиност.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1070693
-
-Да ли сте вешт кувар?
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1088228
-
-Губитак памћења је више психолошки него физички.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1047155
-
-Ова електронска порука је поверљива и односи се само на адресанта.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1074727
-
-Допада ми се све што је везано за лето.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1133565
-
-Најбрже превозно средство је авион.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1080372
-
-Да ли та улица завија оштро десно?
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1054330
-
-Каква је временска прогноза?
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1111594
-
-Овде је топло, скините мантил.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1135375
-
-Она је склона да га љуби.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1055723
-
-Колико кошта флаша пива?
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1048597
-
-Моја мајка ставила је чисту постељину на мој кревет.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1113383
-
-Он је познат као велики сликар.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1113393
-
-Непријатељство је рак друштва.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1054356
-
-Дај ми свој телефонски број.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1091366
-
-Не зна десна шта ради лева.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1078425
-
-Потпуно чисти брилијанти то је реткост.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1103111
-
-Дунав је европска река.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1080608
-
-Овај колеџ основан је 1910. године.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1135253
-
-Он је ризиковао сопствени живот да би спасао њу.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1111589
-
-Усред града је чувани парк.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1134266
-
-Ово је пошта, а ово је банка.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1127214
-
-Она је весело прихватила његов предлог.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1051862
-
-Ова салата је превише кисела.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1088236
-
-Црвено и црно, две боје које су ме довеле у Шпанију.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1080421
-
-Пола банана у корпи је иструлело.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1054803
-
-Он не може да разликује десно и лево.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1081288
-
-Ватерполо тим тренира од 5:30 изјутра.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1053549
-
-Мој разред састоји се од четрдесет ученика.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1151336
-
-Човек треба да заслужи поштовање.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1057397
-
-Ишао је да се скија на Хокаиду.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1113738
-
-Бујица страсти га је однела.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1051930
-
-Ја сам тешко доспео на аеродром.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1048913
-
-Више вреди нерад од бесмисленог рада.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1086593
-
-Да ли знате назив неке од Светих тајни?
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1139233
-
-Свој говор он брижљиво припрема.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1050487
-
-Празно срце је горе од празних црева.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1048591
-
-Џон је мој добар друг.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1135327
-
-Он мора дати отказ.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1079500
-
-Не читајте у овој соби!
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1113392
-
-Није свако млеко погодно за људску исхрану.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1147076
-
-Коли ви це завершили?
-	Current Language: serbian
-	Suggested Language: ukrainian
-	URL: http://tatoeba.org/eng/sentences/show/1104582
-
-То су моји строго одређени принципи. Ако вам се не допадају… нека, имам ја такође и друге.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1052463
-
-Он се према мени односи као према одраслом.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1085936
-
-Више волим црвено него бело вино.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1076246
-
-Види мајку па се ожени кћерком.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1082342
-
-Одлучио је да остави пушење.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1055738
-
-Да ли сте ви то променили?
-	Current Language: serbian
-	Suggested Language: bulgarian
-	URL: http://tatoeba.org/eng/sentences/show/1099002
-
-Да ли сте овде учитељ или ученик?
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1102239
-
-Колико језика треба да зна дипломата?
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1127195
-
-Ја волим да пробам плаво ишарану сукњу.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1053956
-
-Док се мачка шета, мишеви празнују.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1124541
-
-Књиге су моја друга реалност.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1076624
-
-Колико је два плус два?
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1080485
-
-Нашао је пет грешака у пет линија.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1059329
-
-Побеђенога не туку.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1133549
-
-Ко хоће да лаже, мора добро да памти.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1053583
-
-Боље врабац у руци, него голуб на грани.
-	Current Language: serbian
-	Suggested Language: russian
-	URL: http://tatoeba.org/eng/sentences/show/1082341
-
-Ако ви угризете мене, угришћу и ја вас.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1135289
-
-У овој соби је телевизор.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1127255
-
-Иако станујем близу, само ретко је срећем.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1063400
-
-Та кравата и тај жакет добро се слажу.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1124557
-
-Путниче, седи и одмори се!
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1085914
-
-Ако хоћете, можете да читате и нешто друго.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1055742
-
-Назови ме када стигнеш тамо.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1086210
-
-Здраво свете!
-	Current Language: serbian
-	Suggested Language: russian
-	URL: http://tatoeba.org/eng/sentences/show/1078367
-
-Поклањам ти тај медаљон.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1054928
-
-Доктор га је саветовао да не пуши.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1081671
-
-Она добро плива.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1149285
-
-Није обавезно за мене да учествујем на састанку.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1048851
-
-Историја се завршила добро.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1048819
-
-Ветар је јефтин и чист извор енергије.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1116801
-
-Петар говори брзо, Сузана течно, а Мирко ватрено.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1133574
-
-Да ли је твој часовник тачан?
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1053800
-
-Имате ли напитак без алкохола.
-	Current Language: serbian
-	Suggested Language: bulgarian
-	URL: http://tatoeba.org/eng/sentences/show/1047182
-
-Намеравао сам да есеј буде завршен.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1135310
-
-Не бацајте бисер пред свиње.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1151330
-
-Наредна особа се после пријавила нама.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1149250
-
-Жабе се плаше змија.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1076249
-
-Пивске флаше су од стакла.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1072145
-
-Краљева кћерка – принцеза.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1080594
-
-Та играчка је направљена од дрвета.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1113390
-
-Неопходно је да престанеш да пушиш.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1076700
-
-Пази на пешаке док возиш ауто.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1124588
-
-Показао ми је свој албум.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1111653
-
-Увек се жалиш.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1053799
-
-Ружа испушта сладак мирис.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1113736
-
-Видео сам га да трчи.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1116807
-
-Новац симболизује вредност имовине.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1053634
-
-Ова столица је за вас. Седите!
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1135370
-
-Данас није ваш дан добрих шанси.
-	Current Language: serbian
-	Suggested Language: ukrainian
-	URL: http://tatoeba.org/eng/sentences/show/1081262
-
-Ко се роди, тај и умире.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1057897
-
-Да ли оцењујете да је атрактивна.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1066450
-
-Тајфун се приближава Јапану.
-	Current Language: serbian
-	Suggested Language: bulgarian
-	URL: http://tatoeba.org/eng/sentences/show/1054404
-
-Петра занима фудбал.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1090503
-
-То је честа грешка.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1074650
-
-Он често вежба свирање на клавиру.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1081673
-
-Он зарађује више новца него што може да потроши.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1103121
-
-Играмо по новим правилима.
-	Current Language: serbian
-	Suggested Language: ukrainian
-	URL: http://tatoeba.org/eng/sentences/show/1059338
-
-О, види, какви прекрасни дарови! Какво весеље!
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1135270
-
-Она је имала у рукама мали округли предмет.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1103100
-
-Допада ми се да заборављам нешто.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1051411
-
-Живимо у атомској епохи.
-	Current Language: serbian
-	Suggested Language: ukrainian
-	URL: http://tatoeba.org/eng/sentences/show/1069081
-
-Мој холестерол је висок.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1076595
-
-Кутија је отворена и празна.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1063681
-
-Шта је пре постојало: да ли кокошка или јаје?
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1127185
-
-Он расте као печурка после кише.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1142654
-
-Ултравиолетни зраци су опасни за нас.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1124620
-
-Светло на семафору се променило у црвено.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1074610
-
-Волим твоју храброст.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1085891
-
-Његов утицај шири се у читавом региону.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1133554
-
-Није све што има два образа - лице.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1051802
-
-Ја сам заспао за време предавања.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1082316
-
-Он је превише дебео да трчи брзо.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1073905
-
-Не отварај врата.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1060510
-
-Нема смисла покушавати било што друго-
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1098627
-
-Он је романописац и уметник.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1053556
-
-Пливање је добро вежбање.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1053954
-
-Што на уму, то на друму.
-	Current Language: serbian
-	Suggested Language: russian
-	URL: http://tatoeba.org/eng/sentences/show/1080363
-
-Били једном сиромашни старац и богата жена.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1098640
-
-Пуна глава, празан џеп.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1116802
-
-Она ми је даровала часовник.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1057881
-
 Quanto costa l'uva?
 	Current Language: italian
 	Suggested Language: portuguese
 	URL: http://tatoeba.org/eng/sentences/show/1141584
-
-Она је мирна жена.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1057330
 
 Er du overfølsom over for dette medikament?
 	Current Language: danish
@@ -710,225 +25,30 @@ Dá-me paz, por favor.
 	Suggested Language: spanish
 	URL: http://tatoeba.org/eng/sentences/show/1053005
 
-Без оклевања он ми је доставио документ.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1055003
-
-То је тура до планинског врха.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1080397
-
-Требало би да посетим зубара.
-	Current Language: serbian
-	Suggested Language: bulgarian
-	URL: http://tatoeba.org/eng/sentences/show/1112027
-
-Имаш ли пасош?
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1097809
-
 Er du allergisk over for dette medikament?
 	Current Language: danish
 	Suggested Language: norwegian
 	URL: http://tatoeba.org/eng/sentences/show/1122587
-
-Радници се противе новом плану.
-	Current Language: serbian
-	Suggested Language: russian
-	URL: http://tatoeba.org/eng/sentences/show/1052388
-
-Да ли сте сломили прозор вољом или не?
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1072135
-
-Мој апартман је близу.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1103105
-
-Можда се то уопште не односи на наш проблем.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1052197
 
 Diga-me!
 	Current Language: portuguese
 	Suggested Language: spanish
 	URL: http://tatoeba.org/eng/sentences/show/1146126
 
-Орао је цар птица.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1082324
-
-Беба уме да хода.
-	Current Language: serbian
-	Suggested Language: russian
-	URL: http://tatoeba.org/eng/sentences/show/1073902
-
-Ми смо му поклонили ручни часовник.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1081278
-
-Ја обучавам.
-	Current Language: serbian
-	Suggested Language: bulgarian
-	URL: http://tatoeba.org/eng/sentences/show/1086589
-
-Он често цитира Шекспира.
-	Current Language: serbian
-	Suggested Language: bulgarian
-	URL: http://tatoeba.org/eng/sentences/show/1053789
-
-Када сте се родили?
-	Current Language: serbian
-	Suggested Language: bulgarian
-	URL: http://tatoeba.org/eng/sentences/show/1048596
-
-Мушкарац седи поред потока.
-	Current Language: serbian
-	Suggested Language: bulgarian
-	URL: http://tatoeba.org/eng/sentences/show/1117645
-
-Волите ли француска вина?
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1102196
-
 Tu truques.
 	Current Language: french
 	Suggested Language: portuguese
 	URL: http://tatoeba.org/eng/sentences/show/1121169
-
-Ја сам означио да она седне.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1050902
-
-У почетку Бог је створио небо и Земљу.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1048705
-
-Правник је службено потврдио његову невиност и ослободио га.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1074728
-
-Ја не знам зашто се она тако унервозила.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1076262
-
-Постоји дечја психичка болест названа "Париски синдром".
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1089078
-
-Како дошло, тако и отишло.
-	Current Language: serbian
-	Suggested Language: bulgarian
-	URL: http://tatoeba.org/eng/sentences/show/1058525
-
-Он студира америчку историју.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1058523
-
-Није требало да му помогнеш у послу.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1099015
-
-Не остављајте ту хемикалију изложену директној сунчевој светлости.
-	Current Language: serbian
-	Suggested Language: russian
-	URL: http://tatoeba.org/eng/sentences/show/1053572
-
-Нисам учествовао у разговору.
-	Current Language: serbian
-	Suggested Language: russian
-	URL: http://tatoeba.org/eng/sentences/show/1089860
-
-Или прослава или пост.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1051465
-
-Извиолите ми дати вашу трајну адресу.
-	Current Language: serbian
-	Suggested Language: ukrainian
-	URL: http://tatoeba.org/eng/sentences/show/1124538
-
-Угаси телевизор! Не успевам да се концентришем.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1047150
-
-Преваритe супругу.
-	Current Language: serbian
-	Suggested Language: russian
-	URL: http://tatoeba.org/eng/sentences/show/1053996
-
-Пазићу да је све спремно правовремено.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1067262
-
-На два километра даљине је извор.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1081678
-
-Многi есперантистi остану вечити почетници.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1076268
-
-Колико кошта улазница за концерт?
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1063402
-
-Летње температуре су и до 40 степени Целзијуса.
-	Current Language: serbian
-	Suggested Language: russian
-	URL: http://tatoeba.org/eng/sentences/show/1113774
-
-Плаше ме летње муње и громови.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1113783
 
 Ona je plavooka kineska muslimanka.
 	Current Language: croatian
 	Suggested Language: bosnian
 	URL: http://tatoeba.org/eng/sentences/show/1051615
 
-Она живи на високој нози.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1090458
-
 Nemíchejte hruška s jabkama.
 	Current Language: czech
 	Suggested Language: slovak
 	URL: http://tatoeba.org/eng/sentences/show/1137384
-
-Мађионичари користе обмане.
-	Current Language: serbian
-	Suggested Language: russian
-	URL: http://tatoeba.org/eng/sentences/show/1079486
-
-Студирам америчку драму.
-	Current Language: serbian
-	Suggested Language: russian
-	URL: http://tatoeba.org/eng/sentences/show/1135324
 
 ¿Podrías envolverlos separadamente?
 	Current Language: spanish
@@ -940,80 +60,15 @@ Nemíchejte hruška s jabkama.
 	Suggested Language: bulgarian
 	URL: http://tatoeba.org/eng/sentences/show/1130167
 
-Компјутер штеди време.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1052561
-
-Ствар не иде глатко.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1048826
-
-Алпски пејзажи су ме неизмерно задивили.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1076686
-
-Ја морам да вас замолим за опроштај.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1135328
-
-Сви њихови напори били су узалудни.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1056925
-
 Njegove metode su zastarjele.
 	Current Language: croatian
 	Suggested Language: bosnian
 	URL: http://tatoeba.org/eng/sentences/show/1051055
 
-Нису сви сиромашни.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1098602
-
-Postavio sam Toniju jedno pitanje.
-	Current Language: croatian
-	Suggested Language: serbian
-	URL: http://tatoeba.org/eng/sentences/show/1053995
-
-Дајте путер, молим.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1074411
-
-Ја не мислим, значи ја не постојим.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1048545
-
-Чак ја лично користим те речи.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1052401
-
 Mi havas blanknigran hundon.
 	Current Language: danish
 	Suggested Language: hungarian
 	URL: http://tatoeba.org/eng/sentences/show/1130918
-
-Амерички народ борио се за независност.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1079392
-
-Може се претпоставити да је он користио стимулативна средства да би успео тако брзо трчати.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1052502
-
-Имам две улазнице за Бостон против Ванкувера у суботу вече. Желиш ли да идеш са мном?
-	Current Language: serbian
-	Suggested Language: bulgarian
-	URL: http://tatoeba.org/eng/sentences/show/1099013
 
 Miho toca piano.
 	Current Language: portuguese
@@ -1025,215 +80,40 @@ Od koje godine nije dobro za dijete imati izmišljene prijatelje?
 	Suggested Language: bosnian
 	URL: http://tatoeba.org/eng/sentences/show/1048083
 
-Он је одбио да погледа план.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1052190
-
-Његова мајка није му дозволила да јаше на моторциклу.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1047152
-
-Мој часовник дневно жури пет секунди.
-	Current Language: serbian
-	Suggested Language: bulgarian
-	URL: http://tatoeba.org/eng/sentences/show/1052137
-
-Њему је неопходно да ради.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1127252
-
-Полиција је од њега примила највећи део важних информација.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1149246
+L'aspetto da un'ora.
+	Current Language: italian
+	Suggested Language: romanian
+	URL: http://tatoeba.org/eng/sentences/show/1083215
 
 Cd'en på bordet er min.
 	Current Language: danish
 	Suggested Language: norwegian
 	URL: http://tatoeba.org/eng/sentences/show/1143607
 
-То је моја лична ствар.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1053565
-
 Trata-se de...
 	Current Language: portuguese
 	Suggested Language: spanish
 	URL: http://tatoeba.org/eng/sentences/show/1146682
-
-L'aspetto da un'ora.
-	Current Language: italian
-	Suggested Language: romanian
-	URL: http://tatoeba.org/eng/sentences/show/1083215
-
-Шта ви подразумевате кад кажете - културни релативизам?
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1133519
-
-Колико кошта та кравата?
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1072284
-
-Да ли си јео торту од банана?
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1076602
-
-Изненада облаци су затамнили небо.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1054859
-
-Да ли сте верник?
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1139240
-
-Не мешајте идеје и идеологију.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1147218
-
-Занимљиво је посматрати бебе.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1113756
-
-Ваша непажња ми се не допада.
-	Current Language: serbian
-	Suggested Language: bulgarian
-	URL: http://tatoeba.org/eng/sentences/show/1102201
 
 Susjedski odnosi u Japanu su obično hladniji nego u SAD-u.
 	Current Language: croatian
 	Suggested Language: bosnian
 	URL: http://tatoeba.org/eng/sentences/show/1053816
 
-Ево ситниш.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1048742
-
-Изледао је прилично уморно.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1133539
-
-Мајку се допада да игра кошарку.
-	Current Language: serbian
-	Suggested Language: bulgarian
-	URL: http://tatoeba.org/eng/sentences/show/1103116
-
-Зар то месо не може бити конзервирано за дуже време.
-	Current Language: serbian
-	Suggested Language: bulgarian
-	URL: http://tatoeba.org/eng/sentences/show/1048914
-
-Мушкарац нешто дозива и док се рукујући подравља.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1124535
-
 Tom si interessa di alpinismo.
 	Current Language: italian
 	Suggested Language: portuguese
 	URL: http://tatoeba.org/eng/sentences/show/1109881
-
-Кад мачке нема, мишеви коло воде.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1053988
-
-Кад нема мачке, мишеви коло воде.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1085890
 
 Volim taj okus kada zagrizem sočnu breskvu.
 	Current Language: croatian
 	Suggested Language: bosnian
 	URL: http://tatoeba.org/eng/sentences/show/1047954
 
-Ја не знам француски, а још мање грчки.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1049539
-
-Свој говор он је брижљиво припремио.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1050452
-
-Сви се осећају удобно код њега.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1051391
-
-Да ли то небо плаче?
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1117657
-
 JR Chuo Line'a binersin.
 	Current Language: turkish
 	Suggested Language: czech
 	URL: http://tatoeba.org/eng/sentences/show/1047252
-
-Настава је завршена.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1052397
-
-Он се плаши мора.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1072150
-
-Шта је основа оговарања?
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1052385
-
-Један, два, три, четири, пет, шест, седам, осам, девет, десет.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1054391
-
-Са тим стварима ви морате да рачунате.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1082323
-
-Ја сам преживео бродолом.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1078453
-
-Птице свијају своја гнезда у дрвећу.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1055732
-
-Да ли можете бар мало спустити цену?
-	Current Language: serbian
-	Suggested Language: russian
-	URL: http://tatoeba.org/eng/sentences/show/1135260
-
-Она је купила играчку за свога сина.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1056507
-
-То не спада у моје задатке.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1051491
 
 Il a un pull-over bleu-ciel.
 	Current Language: french
@@ -1245,180 +125,30 @@ Više volim jaču kavu od slabije.
 	Suggested Language: bosnian
 	URL: http://tatoeba.org/eng/sentences/show/1051422
 
-Дајте ми нешто за јело.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1112013
-
-Дошао је други, а не онај кога сам чекао.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1051543
-
-Да ли сте чули о јучерашњем пожару?
-	Current Language: serbian
-	Suggested Language: bulgarian
-	URL: http://tatoeba.org/eng/sentences/show/1054848
-
 Nešto ne valja s tim televizorom.
 	Current Language: croatian
 	Suggested Language: bosnian
 	URL: http://tatoeba.org/eng/sentences/show/1053871
-
-Изволите, поделите пицу на три дела.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1081277
-
-Она има добро срце.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1127259
-
-Јак као храст.
-	Current Language: serbian
-	Suggested Language: bulgarian
-	URL: http://tatoeba.org/eng/sentences/show/1053809
-
-Речи су његов алат.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1085921
-
-Сви се мање или више интересују за уметност.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1057890
-
-То је бесплатно.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1097782
-
-Ово је бесплатно.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1147194
-
-Она га је слушала плачући до поноћи.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1054345
 
 Reparta a torta.
 	Current Language: portuguese
 	Suggested Language: spanish
 	URL: http://tatoeba.org/eng/sentences/show/1084876
 
-Добар почетак – пола посла.
-	Current Language: bulgarian
-	Suggested Language: serbian
-	URL: http://tatoeba.org/eng/sentences/show/1082345
-
-Срећа је осетљив цвет.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1057391
-
-Он то не сме да ради.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1055433
-
-Зашто највећи злочини и највећа слава потичу од људске крви?
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1056508
-
-Ovo je vrlo snažan lek za spavanje.
-	Current Language: serbian
-	Suggested Language: bosnian
-	URL: http://tatoeba.org/eng/sentences/show/3463854
-
-Булдожер се користи за равнање цесте.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1133508
-
 Getúlio Vargas suicidou-se em 1954.
 	Current Language: portuguese
 	Suggested Language: french
 	URL: http://tatoeba.org/eng/sentences/show/1072565
-
-Телефон може бити досада.
-	Current Language: serbian
-	Suggested Language: bulgarian
-	URL: http://tatoeba.org/eng/sentences/show/1060988
-
-Да ли говорите кинески?
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1048708
-
-Какав вам је рад таква вам је цена.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1066448
-
-Да ли вас могу видјети у понедељак?
-	Current Language: serbian
-	Suggested Language: russian
-	URL: http://tatoeba.org/eng/sentences/show/1085255
-
-Имате ли нешто за јело?
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1165324
-
-Колика је радна меморија твога рачунара?
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1098617
-
-Моје презиме је Ванг.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1055467
 
 Jer su proizvedene u Italiji, te traperice su vrlo skupe.
 	Current Language: croatian
 	Suggested Language: bosnian
 	URL: http://tatoeba.org/eng/sentences/show/1047976
 
-Гудрон је завршни производ дестилације органских материјала.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1111637
-
-Где је музеј?
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1053787
-
-То је потпуна неприлика која узнемирава моје нерве.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1075130
-
-Могу ли да разговарам с Билом?
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1085935
-
 Senta-te aqui, por favor.
 	Current Language: portuguese
 	Suggested Language: spanish
 	URL: http://tatoeba.org/eng/sentences/show/1048270
-
-Војници су се одупрли непријатељском нападу.
-	Current Language: serbian
-	Suggested Language: ukrainian
-	URL: http://tatoeba.org/eng/sentences/show/1050462
-
-За тебе би било боље да прочиташ више књига.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1098542
 
 Govoriti je srebrno, šutjeti zlatno.
 	Current Language: croatian
@@ -1430,785 +160,100 @@ Este pentagrama está na clave de sol.
 	Suggested Language: spanish
 	URL: http://tatoeba.org/eng/sentences/show/1104886
 
-Изволите, покажите ми вашу рањену руку.
-	Current Language: serbian
-	Suggested Language: russian
-	URL: http://tatoeba.org/eng/sentences/show/1075133
-
-Та историја нам говори занимљиве чињенице.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1056511
-
-Лоше вести брзо се шире.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1147619
-
-Ви сте добар човек.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1080604
-
-Да ли говорите македонски?
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1054388
-
-Он је десет година старији од тебе.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1091360
-
-Ја мислим да сте ви глупи.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1080475
-
-Много је ружа у том врту.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1053974
-
-Отац и мајка даровали су ми бицикл.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1057152
-
-Он има јак глас.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1061810
-
-Она прецизно зна како да га води до оргазма.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1079384
-
-Ако ваздух и вода не би постојали, не би било живота.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1057331
-
-Замолио сам Тома да отвори прозор.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1142603
-
-Он је више предавач него писац.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1066441
-
-Изолованост је заједничка људској врсти.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1050444
-
-Коса тога дечака је црна.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1090557
-
-Где је светлост, ту је и сенка.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1103140
-
-Веома се радујем што те видим.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1127620
-
-Супротставио се мишљењу свога шефа.
-	Current Language: serbian
-	Suggested Language: bulgarian
-	URL: http://tatoeba.org/eng/sentences/show/1076607
-
-Он је релативно оптимиста.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1102184
-
-Ми смо брат и сестра.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1127183
-
-Мој надимак је "Ич".
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1047904
-
-On često citira Bibliju.
-	Current Language: croatian
-	Suggested Language: serbian
-	URL: http://tatoeba.org/eng/sentences/show/1051096
-
-Јуче је кишило, после тога је било суво.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1050448
-
-Токијска берза је забележила невиђен губитак.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1085900
+Je n'aime pas l'océan.
+	Current Language: french
+	Suggested Language: croatian
+	URL: http://tatoeba.org/eng/sentences/show/1121489
 
 Ou as-tu mis les mitraillettes ?
 	Current Language: french
 	Suggested Language: estonian
 	URL: http://tatoeba.org/eng/sentences/show/1058214
 
-Данас је облачно.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1070683
-
-Да ли сте то чули Макс?
-	Current Language: serbian
-	Suggested Language: bulgarian
-	URL: http://tatoeba.org/eng/sentences/show/1050888
-
-Њена марљивост је добар пример за све нас.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1142597
-
-Да ли се Тошију допада Сачиго?
-	Current Language: serbian
-	Suggested Language: bulgarian
-	URL: http://tatoeba.org/eng/sentences/show/1124555
-
-Више од лепог – прекрасно.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1053986
-
-Молим вас, дајте ми флашу!
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1135361
-
-Изволите ми послати другу копију.
-	Current Language: serbian
-	Suggested Language: ukrainian
-	URL: http://tatoeba.org/eng/sentences/show/1085922
-
-Купите карте за одлазак и повратак.
-	Current Language: serbian
-	Suggested Language: russian
-	URL: http://tatoeba.org/eng/sentences/show/1149296
-
-Према моме сазнању, он је љубазан.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1053961
-
 Ne buči u razredu.
 	Current Language: croatian
 	Suggested Language: slovenian
 	URL: http://tatoeba.org/eng/sentences/show/1102037
-
-Могу ли да платим чеком?
-	Current Language: serbian
-	Suggested Language: russian
-	URL: http://tatoeba.org/eng/sentences/show/1102222
 
 Open Mozilla Firefox.
 	Current Language: english
 	Suggested Language: malay
 	URL: http://tatoeba.org/eng/sentences/show/1122199
 
-Било ми је потребно пет сати да прочитам ту књигу.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1111641
-
 ¿No es ella una programadora de computadores?
 	Current Language: spanish
 	Suggested Language: portuguese
 	URL: http://tatoeba.org/eng/sentences/show/1129822
-
-Вруће је. И превише влажно.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1057363
 
 I like Toki Pona.
 	Current Language: english
 	Suggested Language: lithuanian
 	URL: http://tatoeba.org/eng/sentences/show/1121401
 
-Живот? Не говори ми о животу.
-	Current Language: serbian
-	Suggested Language: ukrainian
-	URL: http://tatoeba.org/eng/sentences/show/1084652
-
-Оставите ме да платим јело.
-	Current Language: serbian
-	Suggested Language: bulgarian
-	URL: http://tatoeba.org/eng/sentences/show/1053672
-
-Комитет се састоји од дванаест чланова.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1127205
-
-Она се родила слепа.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1124667
-
-Ниједан драмски писац не може бити упоређен са Шекспиром.
-	Current Language: serbian
-	Suggested Language: bulgarian
-	URL: http://tatoeba.org/eng/sentences/show/1102186
-
-Она је нежна као пролећни ветрић.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1074625
-
-Изађите из аутобуса на последњој станици.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1089091
-
-Иако је радио имајући два мала детета, он је почео да студира на универзитету.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1055713
-
-Ја сам доручковао у седам сати и тридесет минута.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1057154
-
-Веома добра идеја.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1052564
-
-Бродари морају да се покоравају капетану.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1051506
-
-Наше цене су се смањиле.
-	Current Language: serbian
-	Suggested Language: russian
-	URL: http://tatoeba.org/eng/sentences/show/1135339
-
-Широка алеја води у тврђаву.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1134265
-
 Observemos as manchas solares.
 	Current Language: portuguese
 	Suggested Language: spanish
 	URL: http://tatoeba.org/eng/sentences/show/1084483
-
-Многе енглеске речи воде порекло из латинског.
-	Current Language: serbian
-	Suggested Language: russian
-	URL: http://tatoeba.org/eng/sentences/show/1091146
-
-Петар говори брзо, Дамир ватрено, а Сузана непрекидно.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1133577
-
-Моја жена се зове Лидија Заребов.
-	Current Language: serbian
-	Suggested Language: bulgarian
-	URL: http://tatoeba.org/eng/sentences/show/1102232
-
-Ти си добар.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1139274
-
-На Земљи живи више од шест милијарди људи.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1047178
-
-Она је трчала као ветар.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1142655
-
-Сећам се, била сам га видела.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1057449
-
-Куда ви идете у школу?
-	Current Language: serbian
-	Suggested Language: russian
-	URL: http://tatoeba.org/eng/sentences/show/1051392
-
-Ја се не слажем да млада жена иде тамо сама.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1047146
-
-Једна ласта не чини пролеће.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1053993
-
-Жалим, ја немам мењачницу.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1053132
-
-Да ли неко од вас поседује бицикло?
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1053936
-
-Писаћу о нашим парковима и планинама.
-	Current Language: serbian
-	Suggested Language: russian
-	URL: http://tatoeba.org/eng/sentences/show/1090506
-
-Она изгледа младолико, али заправо има више од 40.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1102217
-
-Стиже крај лета.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1074622
-
-Ви немате добро памћење.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1051891
-
-Улица се нејасно види кроз кишу.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1117658
-
-Je n'aime pas cela.
-	Current Language: french
-	Suggested Language: serbian
-	URL: http://tatoeba.org/eng/sentences/show/1121501
-
-Имате ли нешто јефтиније?
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1078477
-
-Ти ме чиниш радосним.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1124622
-
-Немам времена да те видим.
-	Current Language: serbian
-	Suggested Language: bulgarian
-	URL: http://tatoeba.org/eng/sentences/show/1117640
-
-Није као што изгледа.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1054355
-
-Он ме је мимоишао не гледајући ме.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1082297
-
-Учини све што каже.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1059348
-
-А ви, ком клубу припадате.
-	Current Language: serbian
-	Suggested Language: ukrainian
-	URL: http://tatoeba.org/eng/sentences/show/1133558
-
-Ја имам урођени таленат за математику.
-	Current Language: serbian
-	Suggested Language: russian
-	URL: http://tatoeba.org/eng/sentences/show/1049126
-
-Руке су ми плаве од хладноће.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1055424
-
-Ја не знам сигурно ко је он.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1133513
-
-Уздај се, али гледај.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1082327
-
-Реците ми где она станује.
-	Current Language: serbian
-	Suggested Language: russian
-	URL: http://tatoeba.org/eng/sentences/show/1127187
-
-Црни телефон је скупљи него бели.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1086214
-
-Колико се ја сећам, то не иде тако како ви кажете.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1086201
-
-"Хвала". "Нема на чему".
-	Current Language: serbian
-	Suggested Language: russian
-	URL: http://tatoeba.org/eng/sentences/show/1050835
-
-Много је античких градова у Италији. Рим и Венеција, на пример.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1142573
-
-Где ви стављате отпад?
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1127174
-
-Да ли вам се допада Сан Франциско?
-	Current Language: serbian
-	Suggested Language: bulgarian
-	URL: http://tatoeba.org/eng/sentences/show/1053664
 
 Sortez-nous d'ici.
 	Current Language: french
 	Suggested Language: italian
 	URL: http://tatoeba.org/eng/sentences/show/1112029
 
-Она има много одеће.
-	Current Language: serbian
-	Suggested Language: bulgarian
-	URL: http://tatoeba.org/eng/sentences/show/1076613
-
 Os norte-americanos são altos.
 	Current Language: portuguese
 	Suggested Language: spanish
 	URL: http://tatoeba.org/eng/sentences/show/1150064
 
-Htio bih razgovarati s Tonijem.
-	Current Language: croatian
-	Suggested Language: serbian
-	URL: http://tatoeba.org/eng/sentences/show/1053989
-
-Како могу да заборавим те дане?
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1149256
-
-Сада живим у Кјоту.
-	Current Language: serbian
+Донесите то за мене.
+	Current Language: bulgarian
 	Suggested Language: ukrainian
-	URL: http://tatoeba.org/eng/sentences/show/1103138
+	URL: http://tatoeba.org/eng/sentences/show/1127192
 
-Не можете се заклети, па повући заклетву.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1054871
-
-Она се спријатељила са руским досељеником.
-	Current Language: serbian
-	Suggested Language: bulgarian
-	URL: http://tatoeba.org/eng/sentences/show/1050824
-
-Мачка воли да се игра у башти.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1149254
-
-Човек је одговоран за своја дела.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1072142
-
-Молим те не тугуј више.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1072154
-
-Данас прекрасно изгледаш!
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1091406
-
-Ништа не можемо против Божје воље.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1080603
-
-Остало вам је само десет секунди живота.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1079382
-
-Ви то не морате паковати.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1049544
-
-Желим вам добар дан, господине!
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1047883
-
-Ја сам се прехладио, па имам грозницу.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1050869
-
-Зашто ви не замолите једнодневну дозволу?
-	Current Language: serbian
-	Suggested Language: ukrainian
-	URL: http://tatoeba.org/eng/sentences/show/1091243
+Je n'aime pas ce livre-ci.
+	Current Language: french
+	Suggested Language: croatian
+	URL: http://tatoeba.org/eng/sentences/show/1137213
 
 Şifre " Muiriel " dir.
 	Current Language: turkish
 	Suggested Language: german
 	URL: http://tatoeba.org/eng/sentences/show/1090585
 
-И ви, како се ви осећате?
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1074418
-
-Моја мајка је приметила да су ми ноге прљаве.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1080417
-
-Интересантно, шта она мисли тим речима.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1080458
-
 Desde quando está em Brasília?
 	Current Language: portuguese
 	Suggested Language: spanish
 	URL: http://tatoeba.org/eng/sentences/show/1149732
-
-Он вас стално гледа. Сигурно је заљубљен у вас.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1054336
-
-Изволите, не пушити у соби.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1047305
-
-Принцип једнакости много плаши привилеговане.
-	Current Language: serbian
-	Suggested Language: bulgarian
-	URL: http://tatoeba.org/eng/sentences/show/1079456
-
-Сада су они на југу Француске.
-	Current Language: serbian
-	Suggested Language: russian
-	URL: http://tatoeba.org/eng/sentences/show/1081280
-
-Неке енглеске речи позајмљене су из јапанског.
-	Current Language: serbian
-	Suggested Language: russian
-	URL: http://tatoeba.org/eng/sentences/show/1081779
-
-Морате се понашати према саобраћајним пртавилима.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1086597
-
-Шта сте купили?
-	Current Language: serbian
-	Suggested Language: bulgarian
-	URL: http://tatoeba.org/eng/sentences/show/1103110
 
 "Macunaíma" é a obra-prima de Mário de Andrade.
 	Current Language: portuguese
 	Suggested Language: spanish
 	URL: http://tatoeba.org/eng/sentences/show/1064683
 
-Кажу да мајска киша вреди цареве браде.
-	Current Language: serbian
-	Suggested Language: bulgarian
-	URL: http://tatoeba.org/eng/sentences/show/1117660
-
-Две трећине запослених у тој компанији су инжењери.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1051857
-
 Il continua l'énumération.
 	Current Language: french
 	Suggested Language: italian
 	URL: http://tatoeba.org/eng/sentences/show/1144077
-
-Љубав на уста улази – рече куварица.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1088246
-
-Ми не бесмо изашли, пре него нас је ухватио пљусак.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1135301
-
-Нашао сам га како краде крушке из воћњака.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1048860
-
-Нећу крити од вас моје намере.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1063403
-
-Умирем од глади!
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1056916
-
-Јапанци једу бољу говедину од Британаца.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1080461
 
 Tom chose to ignore Mary's comment.
 	Current Language: english
 	Suggested Language: french
 	URL: http://tatoeba.org/eng/sentences/show/1095283
 
-Познајете ли стварно тачан правац?
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1085257
-
-Ми смо се спријатељили са бар десет Американаца.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1050867
-
-"Дајте ми со, молим вас." "Ево."
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1111631
-
-Мачке не воле да се квасе.
-	Current Language: serbian
-	Suggested Language: russian
-	URL: http://tatoeba.org/eng/sentences/show/1080425
-
-Допада ми се да останем с вама.
-	Current Language: serbian
-	Suggested Language: bulgarian
-	URL: http://tatoeba.org/eng/sentences/show/1047880
-
 O mercado tornou-se um hipermercado.
 	Current Language: portuguese
 	Suggested Language: spanish
 	URL: http://tatoeba.org/eng/sentences/show/1075315
-
-Неко те зове.
-	Current Language: serbian
-	Suggested Language: bulgarian
-	URL: http://tatoeba.org/eng/sentences/show/1116812
-
-Шта сте, проклети, учинили са тим?
-	Current Language: serbian
-	Suggested Language: bulgarian
-	URL: http://tatoeba.org/eng/sentences/show/1050477
-
-Хвала за чудесну вечеру.
-	Current Language: serbian
-	Suggested Language: russian
-	URL: http://tatoeba.org/eng/sentences/show/1059336
 
 J'ai l'eau.
 	Current Language: french
 	Suggested Language: lithuanian
 	URL: http://tatoeba.org/eng/sentences/show/1121461
 
-Композитори компонују музику.
-	Current Language: serbian
-	Suggested Language: ukrainian
-	URL: http://tatoeba.org/eng/sentences/show/1113754
-
 Mi ama?
 	Current Language: italian
 	Suggested Language: turkish
 	URL: http://tatoeba.org/eng/sentences/show/1115028
-
-Он сада ради у Енглеској.
-	Current Language: serbian
-	Suggested Language: russian
-	URL: http://tatoeba.org/eng/sentences/show/1116819
-
-После побољшања времена, играчи су почели да трче на игралишту.
-	Current Language: serbian
-	Suggested Language: bulgarian
-	URL: http://tatoeba.org/eng/sentences/show/1051911
-
-Добра идеја!
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1098561
-
-За жаљење је да ви то не знате.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1048856
-
-Купио сам аутомобил са 10% попуста.
-	Current Language: serbian
-	Suggested Language: bulgarian
-	URL: http://tatoeba.org/eng/sentences/show/1079558
-
-То је било оно што ми називамо "новогодишњим даровима".
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1139273
-
-Мени чај с лимуном, молим вас.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1091380
-
-Небо изгледа претеће.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1058561
-
-Уобичајено ја доручкујем лагано.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1051805
-
-Извините. Како се зовете?
-	Current Language: bulgarian
-	Suggested Language: serbian
-	URL: http://tatoeba.org/eng/sentences/show/1103135
-
-Бавим се многим спортовима са лоптом, као на пример бејзболом и кошарком.
-	Current Language: serbian
-	Suggested Language: bulgarian
-	URL: http://tatoeba.org/eng/sentences/show/1133522
 
 Bis.
 	Current Language: portuguese
@@ -2220,175 +265,20 @@ O todo o nada.
 	Suggested Language: portuguese
 	URL: http://tatoeba.org/eng/sentences/show/1067413
 
-Он не ради више овде.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1054926
-
-Где ти је мајка, дечаче?
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1097794
-
-Он је срушио кобасицу на под.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1135267
-
-Ја сам као глупак поверовао у то.
-	Current Language: serbian
-	Suggested Language: bulgarian
-	URL: http://tatoeba.org/eng/sentences/show/1097774
-
-Једем овде.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1054923
-
-Ради ли код вас неки Џон Харисон?
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1081733
-
-Аха! Ви сте то учинили, зар не?
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1055689
-
-Ја сам избегао смрт.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1055169
-
 Ne t'en va pas !
 	Current Language: french
 	Suggested Language: lithuanian
 	URL: http://tatoeba.org/eng/sentences/show/1071284
-
-Ко ради, не боји се глади.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1082339
-
-Донесите то за мене.
-	Current Language: bulgarian
-	Suggested Language: ukrainian
-	URL: http://tatoeba.org/eng/sentences/show/1127192
-
-Ја сам из Кјота.
-	Current Language: serbian
-	Suggested Language: russian
-	URL: http://tatoeba.org/eng/sentences/show/1072155
-
-Kao dijete sam uvijek rano ustajao.
-	Current Language: croatian
-	Suggested Language: serbian
-	URL: http://tatoeba.org/eng/sentences/show/1051405
-
-Радим са шпанцем.
-	Current Language: serbian
-	Suggested Language: bulgarian
-	URL: http://tatoeba.org/eng/sentences/show/1089752
-
-Тежак сам 58 килограма.
-	Current Language: serbian
-	Suggested Language: bulgarian
-	URL: http://tatoeba.org/eng/sentences/show/1056901
-
-Пазите, до мене сте избројали до десет.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1111570
-
-Она паметно поступа.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1078484
-
-Растиње умире без воде.
-	Current Language: serbian
-	Suggested Language: russian
-	URL: http://tatoeba.org/eng/sentences/show/1065550
-
-Нико жив не би у то поверовао.
-	Current Language: serbian
-	Suggested Language: ukrainian
-	URL: http://tatoeba.org/eng/sentences/show/1073934
-
-Мост мора да буде саграђен за шест месеци.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1086199
-
-Киша прети из тамног неба.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1076579
-
-Не могу избећи.
-	Current Language: serbian
-	Suggested Language: russian
-	URL: http://tatoeba.org/eng/sentences/show/1048822
-
-Направио сам папирни авион.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1055439
-
-Она ми је махнула руком за опроштај.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1113770
 
 Tom had jet lag.
 	Current Language: english
 	Suggested Language: dutch
 	URL: http://tatoeba.org/eng/sentences/show/1093841
 
-Хоћете ли да се ожените мноме?
-	Current Language: serbian
-	Suggested Language: bulgarian
-	URL: http://tatoeba.org/eng/sentences/show/1051893
-
-Маказе, камен, папир.
-	Current Language: bulgarian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1089836
-
-Ја сам пропустио воз.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1048547
-
-Изненадан рад – лош рад.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1057362
-
-Дугујем му хиљаду долара.
-	Current Language: serbian
-	Suggested Language: bulgarian
-	URL: http://tatoeba.org/eng/sentences/show/1053785
-
-У Београду мењамо воз.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1149295
-
-Кашика и нож стављају се са десне стране тањира.
-	Current Language: serbian
-	Suggested Language: russian
-	URL: http://tatoeba.org/eng/sentences/show/1088235
-
-Његов одговор је далко од исправног.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1124578
-
-Упао сам у пљусак и покисао.
-	Current Language: serbian
-	Suggested Language: russian
-	URL: http://tatoeba.org/eng/sentences/show/1135343
+Всё бело.
+	Current Language: russian
+	Suggested Language: ukrainian
+	URL: http://tatoeba.org/eng/sentences/show/1131923
 
 ¡Qué numero tan grande!
 	Current Language: spanish
@@ -2400,80 +290,40 @@ Salve!
 	Suggested Language: italian
 	URL: http://tatoeba.org/eng/sentences/show/1139480
 
-Шта о наредној седмици?
-	Current Language: serbian
-	Suggested Language: bulgarian
-	URL: http://tatoeba.org/eng/sentences/show/1074731
+On spava ko beba.
+	Current Language: croatian
+	Suggested Language: bosnian
+	URL: http://tatoeba.org/eng/sentences/show/1101190
 
 Je m'en tape.
 	Current Language: french
 	Suggested Language: dutch
 	URL: http://tatoeba.org/eng/sentences/show/1134344
 
+Spava ko beba.
+	Current Language: croatian
+	Suggested Language: bosnian
+	URL: http://tatoeba.org/eng/sentences/show/1101191
+
 I'm fat.
 	Current Language: english
 	Suggested Language: albanian
 	URL: http://tatoeba.org/eng/sentences/show/1120816
-
-Овај човек је пијан.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1127242
 
 Nos encontraremos no domingo.
 	Current Language: portuguese
 	Suggested Language: spanish
 	URL: http://tatoeba.org/eng/sentences/show/1052940
 
-Ја сам сада на аеродрому Нарита.
-	Current Language: serbian
-	Suggested Language: russian
-	URL: http://tatoeba.org/eng/sentences/show/1053611
-
-Татаеба је добар начин активирања есперантиста.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1076266
-
 A lei pune.
 	Current Language: portuguese
 	Suggested Language: romanian
 	URL: http://tatoeba.org/eng/sentences/show/1123403
 
-Та птица не живи ни у Јапану ни у Кини.
-	Current Language: serbian
-	Suggested Language: russian
-	URL: http://tatoeba.org/eng/sentences/show/1051888
-
 Vivo a Malta.
 	Current Language: italian
 	Suggested Language: portuguese
 	URL: http://tatoeba.org/eng/sentences/show/1082172
-
-Ја не могу да живим без телевизије.
-	Current Language: serbian
-	Suggested Language: ukrainian
-	URL: http://tatoeba.org/eng/sentences/show/1103117
-
-Да ли je он градиo куле у ваздуху?
-	Current Language: serbian
-	Suggested Language: russian
-	URL: http://tatoeba.org/eng/sentences/show/1057169
-
-Надам се да вам не досађујем.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1063404
-
-Досађује ми његово понашање.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1147068
-
-Кућа је много скупља него сам се надао.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1050870
 
 Mange ta soupe !
 	Current Language: french
@@ -2490,21 +340,6 @@ Ella no come carne, ¿verdad?
 	Suggested Language: italian
 	URL: http://tatoeba.org/eng/sentences/show/1128290
 
-Бил може да вози бицикл.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1098999
-
-Овај чај је добар.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1054362
-
-Да ли можете да будете шофер?
-	Current Language: serbian
-	Suggested Language: russian
-	URL: http://tatoeba.org/eng/sentences/show/1124487
-
 Él se está aproximando.
 	Current Language: spanish
 	Suggested Language: portuguese
@@ -2514,11 +349,6 @@ Welcome
 	Current Language: albanian
 	Suggested Language: english
 	URL: http://tatoeba.org/eng/sentences/show/1119436
-
-Могао бих повратити.
-	Current Language: serbian
-	Suggested Language: bulgarian
-	URL: http://tatoeba.org/eng/sentences/show/1048829
 
 ¿Café o té?
 	Current Language: spanish
@@ -2530,130 +360,15 @@ Tu es importante.
 	Suggested Language: spanish
 	URL: http://tatoeba.org/eng/sentences/show/1121144
 
-Она је вратила писмо не отворивши га.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1053944
-
 É a lei.
 	Current Language: portuguese
 	Suggested Language: italian
 	URL: http://tatoeba.org/eng/sentences/show/1070422
 
-Папагај често подражава људски говор.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1080440
-
-Ја сам поново овде.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1063398
-
-Да ли ви станујете сами?
-	Current Language: serbian
-	Suggested Language: bulgarian
-	URL: http://tatoeba.org/eng/sentences/show/1088278
-
-Ми сви исто мислимо.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1054381
-
-Молим вас, укључите телевизор.
-	Current Language: serbian
-	Suggested Language: russian
-	URL: http://tatoeba.org/eng/sentences/show/1135368
-
-Данас нема наставе.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1116811
-
-Што у глави, то на језику.
-	Current Language: serbian
-	Suggested Language: bulgarian
-	URL: http://tatoeba.org/eng/sentences/show/1080365
-
-Понудио бих вас шољицом кафе, ако бисте имали времена.
-	Current Language: serbian
-	Suggested Language: bulgarian
-	URL: http://tatoeba.org/eng/sentences/show/1088282
-
-Он је почеом свој пут око света на јахти.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1103113
-
-Кишни дани ме чине тужним.
-	Current Language: serbian
-	Suggested Language: bulgarian
-	URL: http://tatoeba.org/eng/sentences/show/1117656
-
-Мени, молим вас, шољицу кафе.
-	Current Language: serbian
-	Suggested Language: bulgarian
-	URL: http://tatoeba.org/eng/sentences/show/1080444
-
-Нешто мало кретало се у мраку.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1057333
-
-Злато даје боју лепоте чак и ружноћи; али све то ствара одбојност према сиромаштву.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1050832
-
-Добре идеје су добра роба.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1147222
-
 Taci?
 	Current Language: italian
 	Suggested Language: romanian
 	URL: http://tatoeba.org/eng/sentences/show/1148202
-
-Како можете да игноришете тако важну личност?
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1081709
-
-Постоје прихватљиви разлози да га унајмим.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1051871
-
-Данашњи дан је вредан за нас.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1088258
-
-Послаћу вам писмо.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1089754
-
-Сама концентрација одузима време, али вишеструко убрзава све остало.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1133537
-
-У дворишту игра весела дечурлија.
-	Current Language: serbian
-	Suggested Language: bulgarian
-	URL: http://tatoeba.org/eng/sentences/show/1079493
-
-Изненадио сам се да ја то могу да урадим у слободно време.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1056891
-
-Београд има око два милиона становника.
-	Current Language: serbian
-	Suggested Language: bulgarian
-	URL: http://tatoeba.org/eng/sentences/show/1133797
 
 Pense!
 	Current Language: portuguese
@@ -2680,75 +395,15 @@ Parece raro.
 	Suggested Language: spanish
 	URL: http://tatoeba.org/eng/sentences/show/1050606
 
-Тај човек је управљао земљом четрдесет година.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1052201
-
-Ања добро игра тенис.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1097790
-
-Отворите прозор!
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1135352
-
 Tu vis d'expédients.
 	Current Language: french
 	Suggested Language: lithuanian
 	URL: http://tatoeba.org/eng/sentences/show/1147275
 
-Напишите то овде, молим вас.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1134156
-
 Elle l'aime.
 	Current Language: french
 	Suggested Language: latvian
 	URL: http://tatoeba.org/eng/sentences/show/1152014
-
-Он се наљутио на свога брата.
-	Current Language: serbian
-	Suggested Language: bulgarian
-	URL: http://tatoeba.org/eng/sentences/show/1089832
-
-Он се тамо одвезао бициклом.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1054376
-
-Да ли ви студирате хемију?
-	Current Language: serbian
-	Suggested Language: bulgarian
-	URL: http://tatoeba.org/eng/sentences/show/1054358
-
-Млади пар видео је свет ружичасто.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1050432
-
-Чији је ред?
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1056864
-
-Следеће Олимпијске игре одржаће се у Британији.
-	Current Language: serbian
-	Suggested Language: russian
-	URL: http://tatoeba.org/eng/sentences/show/1149277
-
-То је важно писмо.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1072161
-
-На знаку пише: "Излаз".
-	Current Language: serbian
-	Suggested Language: bulgarian
-	URL: http://tatoeba.org/eng/sentences/show/1127249
 
 Andamos durante dos horas.
 	Current Language: spanish
@@ -2760,11 +415,6 @@ Pare!
 	Suggested Language: romanian
 	URL: http://tatoeba.org/eng/sentences/show/1150773
 
-Ја сам га задржавао да не иде.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1052169
-
 Ja moram promjeniti bateriju mog portabl radio aparata.
 	Current Language: croatian
 	Suggested Language: bosnian
@@ -2775,80 +425,30 @@ Ja moram promjeniti bateriju mog portabl radio aparata.
 	Suggested Language: swedish
 	URL: http://tatoeba.org/eng/sentences/show/1087534
 
-Што може лав, не може магарац.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1053627
+Vide Dana.
+	Current Language: croatian
+	Suggested Language: danish
+	URL: http://tatoeba.org/eng/sentences/show/1051609
 
 "Мона Лиза" написана Леонардо да Винчи.
 	Current Language: russian
 	Suggested Language: bulgarian
 	URL: http://tatoeba.org/eng/sentences/show/1088364
 
-Не суди о нечему према изгледу.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1057885
-
-Лекар ми је забранио да учествујем у маратонској трци.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1051574
-
-Лав лежи у центру кавеза.
-	Current Language: serbian
-	Suggested Language: ukrainian
-	URL: http://tatoeba.org/eng/sentences/show/1051460
-
-Да ли си нахранила пса?
-	Current Language: serbian
-	Suggested Language: russian
-	URL: http://tatoeba.org/eng/sentences/show/1102247
-
-Неће користити ни ако га покушате наговорити.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1056926
-
-Свети Тома докаѕивао је постојање Бога помоћу пет аргумената, такозваних "пет путева".
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1055704
-
-Дајте ми мени!
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1165306
-
-Vide Dana.
-	Current Language: croatian
-	Suggested Language: danish
-	URL: http://tatoeba.org/eng/sentences/show/1051609
-
-Та идеја ми се не допада.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1051449
-
 Tom hasta.
 	Current Language: turkish
 	Suggested Language: spanish
 	URL: http://tatoeba.org/eng/sentences/show/1123997
 
+Dag Majk!
+	Current Language: dutch
+	Suggested Language: albanian
+	URL: http://tatoeba.org/eng/sentences/show/1099693
+
 Venga con me.
 	Current Language: italian
 	Suggested Language: spanish
 	URL: http://tatoeba.org/eng/sentences/show/1113879
-
-Какав добар учитељ је господин Хирајама!
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1073891
-
-Ја сам уобичајио да пишем дневник.
-	Current Language: serbian
-	Suggested Language: bulgarian
-	URL: http://tatoeba.org/eng/sentences/show/1151316
 
 Nunca se para a pensar.
 	Current Language: spanish
@@ -2880,21 +480,6 @@ Bill ha acceso la tele.
 	Suggested Language: spanish
 	URL: http://tatoeba.org/eng/sentences/show/1135248
 
-Истоварили су брод.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1060517
-
-Скрати вест до сто речи.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1124627
-
-Фућка ми се за то.
-	Current Language: serbian
-	Suggested Language: bulgarian
-	URL: http://tatoeba.org/eng/sentences/show/1127179
-
 Mr. Bush is President.
 	Current Language: english
 	Suggested Language: dutch
@@ -2905,60 +490,15 @@ Acabo de fazê-lo.
 	Suggested Language: spanish
 	URL: http://tatoeba.org/eng/sentences/show/1143389
 
-Тај коњ је мој.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1057150
-
-То је мој коњ.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1057141
-
 Surat asma.
 	Current Language: turkish
 	Suggested Language: malay
 	URL: http://tatoeba.org/eng/sentences/show/1057749
 
-Живот личи на путовање.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1133532
-
 Mary ne koristi sol pri kuhanju.
 	Current Language: croatian
 	Suggested Language: slovenian
 	URL: http://tatoeba.org/eng/sentences/show/1106411
-
-Контактна сочива, може ли?
-	Current Language: serbian
-	Suggested Language: bulgarian
-	URL: http://tatoeba.org/eng/sentences/show/1139268
-
-Мој син има сина.
-	Current Language: serbian
-	Suggested Language: bulgarian
-	URL: http://tatoeba.org/eng/sentences/show/1142609
-
-Рим је стари град.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1057255
-
-Јане је лично писао писмо.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1069777
-
-Како се то каже на италијанском?
-	Current Language: serbian
-	Suggested Language: bulgarian
-	URL: http://tatoeba.org/eng/sentences/show/1074736
-
-Сам против свих.
-	Current Language: serbian
-	Suggested Language: bulgarian
-	URL: http://tatoeba.org/eng/sentences/show/1057892
 
 I ate.
 	Current Language: english
@@ -2970,11 +510,6 @@ Repartí la torta.
 	Suggested Language: italian
 	URL: http://tatoeba.org/eng/sentences/show/1084870
 
-Нико мени не може да помогне.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1117626
-
 Hem?
 	Current Language: portuguese
 	Suggested Language: dutch
@@ -2984,16 +519,6 @@ Consentido!
 	Current Language: portuguese
 	Suggested Language: spanish
 	URL: http://tatoeba.org/eng/sentences/show/1150899
-
-Реци ми више.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1076590
-
-Моли има велики часовник.
-	Current Language: serbian
-	Suggested Language: bulgarian
-	URL: http://tatoeba.org/eng/sentences/show/1133564
 
 No U-turn!
 	Current Language: english
@@ -3015,25 +540,10 @@ Distribuiteci le carte.
 	Suggested Language: french
 	URL: http://tatoeba.org/eng/sentences/show/1117010
 
-Да ли сте ви пушач?
-	Current Language: serbian
-	Suggested Language: bulgarian
-	URL: http://tatoeba.org/eng/sentences/show/1081334
-
 Olen, siis pilkutan.
 	Current Language: finnish
 	Suggested Language: estonian
 	URL: http://tatoeba.org/eng/sentences/show/1134229
-
-Moram promjeniti bateriju mog prenosivog radija.
-	Current Language: croatian
-	Suggested Language: bosnian
-	URL: http://tatoeba.org/eng/sentences/show/1100208
-
-Месец светло блиста.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1133502
 
 Hem fiziğe hem kimyaya eğilimim var.
 	Current Language: turkish
@@ -3055,145 +565,45 @@ Elle m'a rembarré.
 	Suggested Language: estonian
 	URL: http://tatoeba.org/eng/sentences/show/1072749
 
-Стотина је мој најдражи број.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1053790
-
-Никуда не идем.
-	Current Language: serbian
-	Suggested Language: russian
-	URL: http://tatoeba.org/eng/sentences/show/1124594
-
 Instalaram-se no campo.
 	Current Language: portuguese
 	Suggested Language: spanish
 	URL: http://tatoeba.org/eng/sentences/show/1132691
-
-У туђем оку видим трун, а у својем не видим брвно.
-	Current Language: serbian
-	Suggested Language: bulgarian
-	URL: http://tatoeba.org/eng/sentences/show/1091351
-
-Imali smo sreću da pobjedimo.
-	Current Language: croatian
-	Suggested Language: bosnian
-	URL: http://tatoeba.org/eng/sentences/show/1100743
 
 Паста - провинция Фернандо.
 	Current Language: russian
 	Suggested Language: bulgarian
 	URL: http://tatoeba.org/eng/sentences/show/1055843
 
-Ја не говорим немачки.
-	Current Language: serbian
-	Suggested Language: bulgarian
-	URL: http://tatoeba.org/eng/sentences/show/1055740
-
-- Ко сте ви? -Ја - мама.
-	Current Language: serbian
-	Suggested Language: bulgarian
-	URL: http://tatoeba.org/eng/sentences/show/1116822
-
-Каћа, седи!
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1135259
-
 Tom découpât les tomates.
 	Current Language: french
 	Suggested Language: portuguese
 	URL: http://tatoeba.org/eng/sentences/show/1147653
-
-Човек после опијања види себе без шминке.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1049524
 
 To je bolan i osjetljiv proces.
 	Current Language: croatian
 	Suggested Language: bosnian
 	URL: http://tatoeba.org/eng/sentences/show/1053892
 
-Некада је овде стајао мост.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1047298
-
-Јеси ли ти Кинез или Јапанац?
-	Current Language: serbian
-	Suggested Language: bulgarian
-	URL: http://tatoeba.org/eng/sentences/show/1086198
-
-Напиши алфабет великим словима.
-	Current Language: serbian
-	Suggested Language: ukrainian
-	URL: http://tatoeba.org/eng/sentences/show/1054370
-
-У почетку Индијанци су били љубазни.
-	Current Language: serbian
-	Suggested Language: bulgarian
-	URL: http://tatoeba.org/eng/sentences/show/1047149
-
 Это тайна.
 	Current Language: russian
 	Suggested Language: bulgarian
 	URL: http://tatoeba.org/eng/sentences/show/1149107
-
-Можете ме звати Боб.
-	Current Language: serbian
-	Suggested Language: ukrainian
-	URL: http://tatoeba.org/eng/sentences/show/1059328
 
 Jane İngiltere'de sumo görebilmeyi istemektedir.
 	Current Language: turkish
 	Suggested Language: portuguese
 	URL: http://tatoeba.org/eng/sentences/show/1085739
 
-Голуб симболизује мир.
-	Current Language: serbian
-	Suggested Language: russian
-	URL: http://tatoeba.org/eng/sentences/show/1053636
-
 Kerékpárbalesetben halt meg.
 	Current Language: hungarian
 	Suggested Language: german
 	URL: http://tatoeba.org/eng/sentences/show/1133607
 
-Умеш ли латински?
-	Current Language: serbian
-	Suggested Language: bulgarian
-	URL: http://tatoeba.org/eng/sentences/show/1056459
-
 Attention, Lojbanist!
 	Current Language: english
 	Suggested Language: french
 	URL: http://tatoeba.org/eng/sentences/show/1121261
-
-Пас који лаје, не уједа.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1088295
-
-Имате ли хемијску оловку.
-	Current Language: serbian
-	Suggested Language: bulgarian
-	URL: http://tatoeba.org/eng/sentences/show/1057446
-
-Волите ли зачињена јела?
-	Current Language: serbian
-	Suggested Language: bulgarian
-	URL: http://tatoeba.org/eng/sentences/show/1088234
-
-Предивне ли дуге!
-	Current Language: serbian
-	Suggested Language: bulgarian
-	URL: http://tatoeba.org/eng/sentences/show/1090492
-
-Да ли кашљете?
-	Current Language: serbian
-	Suggested Language: bulgarian
-	URL: http://tatoeba.org/eng/sentences/show/1142587
 
 Tom verband Marys Arm.
 	Current Language: german
@@ -3210,11 +620,6 @@ Vai buscá-lo!
 	Suggested Language: latvian
 	URL: http://tatoeba.org/eng/sentences/show/1138869
 
-Лондон - столица Великобритании.
-	Current Language: russian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1069614
-
 É demasiado caro!
 	Current Language: portuguese
 	Suggested Language: spanish
@@ -3224,36 +629,6 @@ Mettons-nous y !
 	Current Language: french
 	Suggested Language: spanish
 	URL: http://tatoeba.org/eng/sentences/show/1118944
-
-Ставите јаје у кипућу воду.
-	Current Language: serbian
-	Suggested Language: ukrainian
-	URL: http://tatoeba.org/eng/sentences/show/1047157
-
-Могу ли мало одморити?
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1072149
-
-Ући у политичку арену.
-	Current Language: serbian
-	Suggested Language: ukrainian
-	URL: http://tatoeba.org/eng/sentences/show/1055043
-
-Додајте ми стругану шаргарепу и уситњени сир.
-	Current Language: serbian
-	Suggested Language: bulgarian
-	URL: http://tatoeba.org/eng/sentences/show/1048733
-
-Ја сам се родио у Америци.
-	Current Language: serbian
-	Suggested Language: bulgarian
-	URL: http://tatoeba.org/eng/sentences/show/1135282
-
-Изволите у кола.
-	Current Language: serbian
-	Suggested Language: ukrainian
-	URL: http://tatoeba.org/eng/sentences/show/1072144
 
 Relaxe !
 	Current Language: french
@@ -3265,20 +640,10 @@ Tom malt Stadtansichten.
 	Suggested Language: norwegian
 	URL: http://tatoeba.org/eng/sentences/show/1109603
 
-У градовима не воле голубове.
-	Current Language: serbian
-	Suggested Language: russian
-	URL: http://tatoeba.org/eng/sentences/show/1058964
-
 A-t-elle un hobby ?
 	Current Language: french
 	Suggested Language: italian
 	URL: http://tatoeba.org/eng/sentences/show/1121286
-
-Да ли се радујете_
-	Current Language: serbian
-	Suggested Language: bulgarian
-	URL: http://tatoeba.org/eng/sentences/show/1053103
 
 ¿Sabes resolver este enigma?
 	Current Language: spanish
@@ -3290,11 +655,6 @@ De que se trata?
 	Suggested Language: spanish
 	URL: http://tatoeba.org/eng/sentences/show/1150535
 
-Ја рано крећем у школу.
-	Current Language: serbian
-	Suggested Language: russian
-	URL: http://tatoeba.org/eng/sentences/show/1111670
-
 ¿Tienes Facebook?
 	Current Language: spanish
 	Suggested Language: malay
@@ -3304,16 +664,6 @@ Stále si barví vlasy.
 	Current Language: czech
 	Suggested Language: slovak
 	URL: http://tatoeba.org/eng/sentences/show/1133298
-
-Назначи ми пример.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1075155
-
-Искључите, молим вас, ваш мотор.
-	Current Language: serbian
-	Suggested Language: russian
-	URL: http://tatoeba.org/eng/sentences/show/1127247
 
 Nada me preocupa.
 	Current Language: portuguese
@@ -3330,25 +680,15 @@ Jim is a musher.
 	Suggested Language: hungarian
 	URL: http://tatoeba.org/eng/sentences/show/1110294
 
-Остао сам без текста.
-	Current Language: serbian
-	Suggested Language: bulgarian
-	URL: http://tatoeba.org/eng/sentences/show/1127209
-
-Данас имам много посла.
-	Current Language: serbian
-	Suggested Language: russian
-	URL: http://tatoeba.org/eng/sentences/show/1054847
+Ponovo, molim!
+	Current Language: croatian
+	Suggested Language: bosnian
+	URL: http://tatoeba.org/eng/sentences/show/1139194
 
 Tu es en Europe !
 	Current Language: french
 	Suggested Language: spanish
 	URL: http://tatoeba.org/eng/sentences/show/1054315
-
-Какав чудесан дан!
-	Current Language: serbian
-	Suggested Language: bulgarian
-	URL: http://tatoeba.org/eng/sentences/show/1135344
 
 Я здоров.
 	Current Language: russian
@@ -3360,20 +700,10 @@ Barva fuksie je pojmenována po květině.
 	Suggested Language: slovenian
 	URL: http://tatoeba.org/eng/sentences/show/1134233
 
-Ми смо трчали после мачке.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1050860
-
 Qu'en pensez-vous ?
 	Current Language: french
 	Suggested Language: albanian
 	URL: http://tatoeba.org/eng/sentences/show/1151468
-
-Ne stoj blizu mene.
-	Current Language: croatian
-	Suggested Language: slovenian
-	URL: http://tatoeba.org/eng/sentences/show/1048057
 
 Que me importa!
 	Current Language: portuguese
@@ -3405,11 +735,6 @@ Pois sim.
 	Suggested Language: finnish
 	URL: http://tatoeba.org/eng/sentences/show/1054683
 
-Он живи у јабуци.
-	Current Language: serbian
-	Suggested Language: russian
-	URL: http://tatoeba.org/eng/sentences/show/1073748
-
 GPS significa Sistema de Posicionamiento Global.
 	Current Language: spanish
 	Suggested Language: portuguese
@@ -3430,15 +755,10 @@ Segura!
 	Suggested Language: spanish
 	URL: http://tatoeba.org/eng/sentences/show/1150717
 
-Чак и највеће зло води добру.
-	Current Language: serbian
-	Suggested Language: ukrainian
-	URL: http://tatoeba.org/eng/sentences/show/1139272
-
-Допадају ми се песници као Такубоку.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1053625
+Ось адреса.
+	Current Language: ukrainian
+	Suggested Language: bulgarian
+	URL: http://tatoeba.org/eng/sentences/show/1091288
 
 Esta ponte está em Nova York.
 	Current Language: portuguese
@@ -3465,30 +785,15 @@ Il se dressa.
 	Suggested Language: portuguese
 	URL: http://tatoeba.org/eng/sentences/show/1066126
 
-Срби су словенски народ.
-	Current Language: serbian
-	Suggested Language: ukrainian
-	URL: http://tatoeba.org/eng/sentences/show/1053805
-
 Me gusta tu forma de andar.
 	Current Language: spanish
 	Suggested Language: portuguese
 	URL: http://tatoeba.org/eng/sentences/show/1069425
 
-Он размишља о проблему.
-	Current Language: serbian
-	Suggested Language: russian
-	URL: http://tatoeba.org/eng/sentences/show/1091170
-
 I'm such an idiot.
 	Current Language: english
 	Suggested Language: german
 	URL: http://tatoeba.org/eng/sentences/show/1111986
-
-Његово чело купало се у зноју.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1054998
 
 Őket is segítettük.
 	Current Language: hungarian
@@ -3499,11 +804,6 @@ Min far dog i cancer.
 	Current Language: swedish
 	Suggested Language: english
 	URL: http://tatoeba.org/eng/sentences/show/1126194
-
-Помножено три са пет добије се петнаест.
-	Current Language: serbian
-	Suggested Language: bulgarian
-	URL: http://tatoeba.org/eng/sentences/show/1049157
 
 Salut.
 	Current Language: romanian
@@ -3550,25 +850,20 @@ L'a-t-elle dit ?
 	Suggested Language: dutch
 	URL: http://tatoeba.org/eng/sentences/show/1106125
 
-Банане су врста воћа.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1080452
+Je t'en prie, Mario!
+	Current Language: french
+	Suggested Language: lithuanian
+	URL: http://tatoeba.org/eng/sentences/show/1104231
 
-Знамо га.
-	Current Language: serbian
-	Suggested Language: ukrainian
-	URL: http://tatoeba.org/eng/sentences/show/1085887
+Je t'en prie !
+	Current Language: french
+	Suggested Language: lithuanian
+	URL: http://tatoeba.org/eng/sentences/show/1142723
 
 ¿Sales con Sachiko?
 	Current Language: spanish
 	Suggested Language: icelandic
 	URL: http://tatoeba.org/eng/sentences/show/1089686
-
-Баш си висок!
-	Current Language: serbian
-	Suggested Language: bulgarian
-	URL: http://tatoeba.org/eng/sentences/show/1091404
 
 Tu es grande.
 	Current Language: french
@@ -3580,16 +875,6 @@ Imaš telefon.
 	Suggested Language: slovenian
 	URL: http://tatoeba.org/eng/sentences/show/1115945
 
-Лош резултат прати ругање.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1053130
-
-Ја вам дугујем десет долара.
-	Current Language: serbian
-	Suggested Language: bulgarian
-	URL: http://tatoeba.org/eng/sentences/show/1147061
-
 Stop!
 	Current Language: italian
 	Suggested Language: english
@@ -3599,21 +884,6 @@ E nesociabil.
 	Current Language: romanian
 	Suggested Language: albanian
 	URL: http://tatoeba.org/eng/sentences/show/1136468
-
-Где си био?
-	Current Language: serbian
-	Suggested Language: bulgarian
-	URL: http://tatoeba.org/eng/sentences/show/1074612
-
-Баци то!
-	Current Language: serbian
-	Suggested Language: russian
-	URL: http://tatoeba.org/eng/sentences/show/1057258
-
-Изненадио сам се да фундаменталисти и радикали постоје и у тако мирној области језика…
-	Current Language: serbian
-	Suggested Language: bulgarian
-	URL: http://tatoeba.org/eng/sentences/show/1058521
 
 Vi er begge to fra Tampa.
 	Current Language: danish
@@ -3625,21 +895,6 @@ Tace?
 	Suggested Language: slovenian
 	URL: http://tatoeba.org/eng/sentences/show/1148203
 
-Претварајмо се у ванземаљце.
-	Current Language: serbian
-	Suggested Language: bulgarian
-	URL: http://tatoeba.org/eng/sentences/show/1052431
-
-Лети често планинарим.
-	Current Language: serbian
-	Suggested Language: bulgarian
-	URL: http://tatoeba.org/eng/sentences/show/1113777
-
-Tri dana mi je trebalo da pospremim sobu.
-	Current Language: croatian
-	Suggested Language: serbian
-	URL: http://tatoeba.org/eng/sentences/show/1047758
-
 Tom was Mary's stepchild.
 	Current Language: english
 	Suggested Language: german
@@ -3650,60 +905,20 @@ Tom was happy.
 	Suggested Language: german
 	URL: http://tatoeba.org/eng/sentences/show/1140976
 
-Каприциозан као април.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1056843
-
-Уживаш ли у летњим врућинама?
-	Current Language: serbian
-	Suggested Language: russian
-	URL: http://tatoeba.org/eng/sentences/show/1113778
-
 Terve, Tom!
 	Current Language: finnish
 	Suggested Language: estonian
 	URL: http://tatoeba.org/eng/sentences/show/1120789
-
-Исправи подвучене речи.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1065548
-
-Не употребљавајте скаредне речи!
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1085918
-
-Жене су со живота.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1091877
 
 Entre, por favor!
 	Current Language: portuguese
 	Suggested Language: spanish
 	URL: http://tatoeba.org/eng/sentences/show/1139438
 
-Дужан сам му 100 јена.
-	Current Language: serbian
-	Suggested Language: bulgarian
-	URL: http://tatoeba.org/eng/sentences/show/1097803
-
 I er svenske.
 	Current Language: danish
 	Suggested Language: norwegian
 	URL: http://tatoeba.org/eng/sentences/show/1141562
-
-Не говори тако.
-	Current Language: serbian
-	Suggested Language: bulgarian
-	URL: http://tatoeba.org/eng/sentences/show/1053803
-
-Веома сам висок.
-	Current Language: serbian
-	Suggested Language: bulgarian
-	URL: http://tatoeba.org/eng/sentences/show/1103127
 
 Dove l'ha vista?
 	Current Language: italian
@@ -3715,11 +930,6 @@ Kaffen er udrikkelig.
 	Suggested Language: norwegian
 	URL: http://tatoeba.org/eng/sentences/show/1100639
 
-Како си?
-	Current Language: serbian
-	Suggested Language: bulgarian
-	URL: http://tatoeba.org/eng/sentences/show/1076696
-
 Quel excentrique !
 	Current Language: french
 	Suggested Language: italian
@@ -3730,35 +940,20 @@ Quel excentrique !
 	Suggested Language: spanish
 	URL: http://tatoeba.org/eng/sentences/show/1086270
 
-Она ретко, можда никада, пре једанаест иде у кревет.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1076612
-
-Деца расту као гљиве после кише.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1055030
-
 Rodila je dječačića.
 	Current Language: croatian
 	Suggested Language: slovenian
 	URL: http://tatoeba.org/eng/sentences/show/1051180
 
+Tri dana mi je trebalo da pospremim sobu.
+	Current Language: croatian
+	Suggested Language: bosnian
+	URL: http://tatoeba.org/eng/sentences/show/1047758
+
 Canto mal.
 	Current Language: spanish
 	Suggested Language: portuguese
 	URL: http://tatoeba.org/eng/sentences/show/1135930
-
-Београд је главни град Србије.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1080480
-
-Бацити прашину у очи.
-	Current Language: serbian
-	Suggested Language: bulgarian
-	URL: http://tatoeba.org/eng/sentences/show/1053544
 
 Tony mora em Kobe.
 	Current Language: portuguese
@@ -3805,10 +1000,15 @@ Posso expressar-me em russo.
 	Suggested Language: italian
 	URL: http://tatoeba.org/eng/sentences/show/1146058
 
-Ја устајем рано.
-	Current Language: serbian
-	Suggested Language: bulgarian
-	URL: http://tatoeba.org/eng/sentences/show/1090390
+Imam nepravilan puls.
+	Current Language: croatian
+	Suggested Language: bosnian
+	URL: http://tatoeba.org/eng/sentences/show/1047939
+
+Traga-o logo.
+	Current Language: portuguese
+	Suggested Language: bosnian
+	URL: http://tatoeba.org/eng/sentences/show/1149492
 
 Madonna sabe cantar.
 	Current Language: spanish
@@ -3825,15 +1025,10 @@ Continue!
 	Suggested Language: french
 	URL: http://tatoeba.org/eng/sentences/show/1150725
 
-Не буди нитков!
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1049140
-
-Je n'aime pas l'océan.
-	Current Language: french
-	Suggested Language: croatian
-	URL: http://tatoeba.org/eng/sentences/show/1121489
+Я ел.
+	Current Language: russian
+	Suggested Language: bulgarian
+	URL: http://tatoeba.org/eng/sentences/show/1107653
 
 Prove!
 	Current Language: portuguese
@@ -3849,6 +1044,11 @@ Prove!
 	Current Language: french
 	Suggested Language: slovak
 	URL: http://tatoeba.org/eng/sentences/show/1112371
+
+Ti si reporter.
+	Current Language: croatian
+	Suggested Language: italian
+	URL: http://tatoeba.org/eng/sentences/show/1101941
 
 O tuvalettedir.
 	Current Language: turkish
@@ -3920,11 +1120,6 @@ Chamo-me Edgar Degas.
 	Suggested Language: bulgarian
 	URL: http://tatoeba.org/eng/sentences/show/1076173
 
-Traga-o logo.
-	Current Language: portuguese
-	Suggested Language: bosnian
-	URL: http://tatoeba.org/eng/sentences/show/1149492
-
 Que desastre!
 	Current Language: portuguese
 	Suggested Language: spanish
@@ -3935,6 +1130,16 @@ Acabe!
 	Suggested Language: spanish
 	URL: http://tatoeba.org/eng/sentences/show/1150745
 
+Живу на Мальте.
+	Current Language: russian
+	Suggested Language: bulgarian
+	URL: http://tatoeba.org/eng/sentences/show/1082185
+
+Він навчався на стипендію.
+	Current Language: ukrainian
+	Suggested Language: bulgarian
+	URL: http://tatoeba.org/eng/sentences/show/1119939
+
 Tot morgen!
 	Current Language: dutch
 	Suggested Language: romanian
@@ -3944,6 +1149,11 @@ Tot morgen!
 	Current Language: spanish
 	Suggested Language: portuguese
 	URL: http://tatoeba.org/eng/sentences/show/1079802
+
+Я болен.
+	Current Language: russian
+	Suggested Language: bulgarian
+	URL: http://tatoeba.org/eng/sentences/show/1109406
 
 L'ours se mord.
 	Current Language: french
@@ -3960,20 +1170,10 @@ Va a Bruxelles.
 	Suggested Language: french
 	URL: http://tatoeba.org/eng/sentences/show/1082567
 
-Ако се у мом одсуству било што деси, замоли га за помоћ.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1080599
-
 Fala-se russo.
 	Current Language: portuguese
 	Suggested Language: italian
 	URL: http://tatoeba.org/eng/sentences/show/1146084
-
-Он – новопреобраћени католик.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1091390
 
 É inútil!
 	Current Language: portuguese
@@ -4025,30 +1225,20 @@ Tomilla ei ole polkupyörää.
 	Suggested Language: estonian
 	URL: http://tatoeba.org/eng/sentences/show/1087329
 
-Je n'aime pas ce livre-ci.
-	Current Language: french
-	Suggested Language: serbian
-	URL: http://tatoeba.org/eng/sentences/show/1137213
-
 Alto!
 	Current Language: portuguese
 	Suggested Language: spanish
 	URL: http://tatoeba.org/eng/sentences/show/1150775
 
-Поправи сат.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1065882
+Hmm, that's fixable.
+	Current Language: english
+	Suggested Language: malay
+	URL: http://tatoeba.org/eng/sentences/show/1103072
 
-Буди здрав!
-	Current Language: serbian
-	Suggested Language: bulgarian
-	URL: http://tatoeba.org/eng/sentences/show/1111663
-
-Нисам видео нкога.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1057429
+Vrh planine Fuji je prekrio snijeg.
+	Current Language: croatian
+	Suggested Language: bosnian
+	URL: http://tatoeba.org/eng/sentences/show/1051399
 
 Fá-lo-ei certamente.
 	Current Language: portuguese
@@ -4059,11 +1249,6 @@ Vali öfkelendi
 	Current Language: turkish
 	Suggested Language: estonian
 	URL: http://tatoeba.org/eng/sentences/show/1072226
-
-Он – такозвани либерал.
-	Current Language: serbian
-	Suggested Language: russian
-	URL: http://tatoeba.org/eng/sentences/show/1081765
 
 Fine!
 	Current Language: italian
@@ -4089,16 +1274,6 @@ Descanse!
 	Current Language: portuguese
 	Suggested Language: spanish
 	URL: http://tatoeba.org/eng/sentences/show/1150749
-
-Ваша кухиња је угодна за рад.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1088229
-
-Ви сте највисочији.
-	Current Language: serbian
-	Suggested Language: bulgarian
-	URL: http://tatoeba.org/eng/sentences/show/1111635
 
 Tom parada cömerttir.
 	Current Language: turkish
@@ -4140,11 +1315,6 @@ Rendez-vous là-bas.
 	Suggested Language: german
 	URL: http://tatoeba.org/eng/sentences/show/1112050
 
-Њих два се слажу као ватра и вода.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1127267
-
 Fala-se italiano.
 	Current Language: portuguese
 	Suggested Language: italian
@@ -4154,11 +1324,6 @@ Em voz alta!
 	Current Language: portuguese
 	Suggested Language: spanish
 	URL: http://tatoeba.org/eng/sentences/show/1146140
-
-Ми увозимо чај из Индије.
-	Current Language: serbian
-	Suggested Language: macedonian
-	URL: http://tatoeba.org/eng/sentences/show/1113768
 
 Venez-vous de Urumko ?
 	Current Language: french

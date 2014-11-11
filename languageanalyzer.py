@@ -1,9 +1,12 @@
  #!/usr/bin/python
+ 
+ # Wordlists from http://invokeit.wordpress.com/frequency-word-lists/
 
 import string
 import math
 import operator
 
+# Get a list containing the languages that the sentence is believed to be
 def getlang(sentence, data, allwords):
 	bestrelevance = - 10000
 	bestlang = 'unknown'
@@ -32,7 +35,7 @@ def getlang(sentence, data, allwords):
 	difference = relevanceCollection[0][1] - relevanceCollection[1][1]
 	return [bestlang,bestrelevance,difference,relevanceCollection]
 
-langabbreviations = ['ara','bul','bos','ces','dan','deu','ell','eng','spa','est','fin','fra','heb','hrv','hun','isl','ita','lit','lav','mkd','msa','nob','nld','pol','por','ron','rus','slk','slv','sqi','srp','swe','tur','ukr','zho']
+langabbreviations = ['ara','bul','bos','ces','dan','deu','ell','eng','spa','est','fin','fra','heb','hrv','hun','isl','ita','lit','lav','msa','nob','nld','pol','por','ron','rus','slk','slv','sqi','swe','tur','ukr','zho']
 codetolang = {'ara' : 'arabic','bul' : 'bulgarian','bos' : 'bosnian','ces' : 'czech','dan' : 'danish','deu' : 'german','ell' : 'greek','eng' : 'english','spa' : 'spanish','est' : 'estonian','fin' : 'finnish','fra' : 'french','heb' : 'hebrew','hrv' : 'croatian','hun' : 'hungarian','isl' : 'icelandic','ita' : 'italian','lit' : 'lithuanian','lav' : 'latvian','mkd' : 'macedonian','msa' : 'malay','nob' : 'norwegian','nld' : 'dutch','pol' : 'polish','por' : 'portuguese','ron' : 'romanian','rus' : 'russian','slk' : 'slovak','slv' : 'slovenian','sqi' : 'albanian','srp' : 'serbian','swe' : 'swedish','tur' : 'turkish','ukr' : 'ukrainian','zho' : 'chinese'}
 data = {}
 allwords = {}
