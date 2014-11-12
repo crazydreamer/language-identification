@@ -94,8 +94,10 @@ def main(argv):
 		exit(1)
 	inputfile = sys.argv[1]
 	outputfile = sys.argv[2]
-
+	
 	# Calculate the total number of words in each language's frequency list
+	numfilesdone = 0
+	sys.stdout.write("Calculating dictionary sizes [%-20s] %d%%" % ('='*(0/5), 0))
 	for abr in langabbreviations:
 		data[abr] = {}
 		data[abr]['numwords'] = 0
@@ -108,7 +110,15 @@ def main(argv):
 			if numwords > MAX_WORDS_PER_LANGUAGE: break
 		totalnumwords += data[abr]['numwords']
 		f.close()
+		numfilesdone += 1
+		progress = float(numfilesdone) / float(len(langabbreviations)) * 100.0
+		progress = int(progress)
+		sys.stdout.write('\r')
+		sys.stdout.write("Calculating dictionary sizes [%-20s] %d%%" % ('='*(progress/5), progress))
+	sys.stdout.write('\n')
 
+	numfilesdone = 0
+	sys.stdout.write("Calculating word frequencies [%-20s] %d%%" % ('='*(0/5), 0))
 	# Calculate each word's uncorrected observed frequency
 	for abr in langabbreviations:
 		data[abr]['words'] = {}
@@ -125,12 +135,20 @@ def main(argv):
 			numwords += 1
 			if numwords > MAX_WORDS_PER_LANGUAGE: break
 		f.close()
+		numfilesdone += 1
+		progress = float(numfilesdone) / float(len(langabbreviations)) * 100.0
+		progress = int(progress)
+		sys.stdout.write('\r')
+		sys.stdout.write("Calculating word frequencies [%-20s] %d%%" % ('='*(progress/5), progress))
+	sys.stdout.write('\n')
 
 	# Turn the total word frequencies into a weighted frequency
 	for word in allwords:
 		count = allwords[word]
 		allwords[word] = float(count) / totalnumwords
 
+	numlinesdone = 0
+	sys.stdout.write("Checking sentences [%-20s] %d%%" % ('='*(0/5), 0))
 	badsentences = []
 	numcorrect = 0
 	numincorrect = 0
@@ -156,6 +174,15 @@ def main(argv):
 		elif reallang != estlang:
 			numincorrect += 1
 			badsentences.append([sentence, difference, reallang, estlang, estrelevance, id])
+		numlinesdone += 1
+		if (numlinesdone % 1000 == 0):
+			progress = float(numlinesdone) / float(num_lines) * 100.0
+			progress = int(progress)
+			sys.stdout.write('\r')
+			sys.stdout.write("Checking sentences [%-20s] %d%%" % ('='*(progress/5), progress))
+	sys.stdout.write('\r')
+	sys.stdout.write("Checking sentences [%-20s] %d%%" % ('='*(100/5), 100))
+	sys.stdout.write('\n')
 	f.close()
 
 	outf = open(outputfile, 'w')
