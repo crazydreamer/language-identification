@@ -26,6 +26,23 @@
  
  # Wordlists from http://invokeit.wordpress.com/frequency-word-lists/
 
+ 
+"""Usage: languageanalyzer.py [-vqh] INPUTFILE OUTPUTFILE
+
+Process FILE and optionally apply correction to either left-hand side or
+right-hand side.
+
+Arguments:
+  INPUTFILE     file containing tatoeba sentence list
+  OUTPUTFILE    name for the report file
+
+Options:
+  -h --help
+  -v       verbose mode
+  -q       quiet mode
+
+"""
+from docopt import docopt
 
 import string
 import math
@@ -33,16 +50,38 @@ import operator
 import getopt
 import sys
 
+
+
+quiet = False
+verbose = False
+
+
+# Wrapper for writing output to the screen
+def printToConsole(string):
+	if (quiet == False):
+		sys.stdout.write(string)
+
+
 # Get a list containing the languages and associated probabilities that the 
 # sentence is believed to be
 def getlang(sentence, data, allwords):
-	bestrelevance = - 10000
+	bestrelevance = 0
 	bestlang = 'unknown'
 	relevanceCollection = {}
+	
+	sentence = sentence.lower()
+	sentence = sentence.translate(string.maketrans("",""), string.punctuation)
+	sentencelist = sentence.split()
+	
+	# Sentences with 1 or 2 words are too unwieldy and show too many false positives
+	if (len(sentencelist) < 3):
+		return ['unknown', 0.0, 0.0, []]
+	
 	for abr in langabbreviations:
-		sentence = sentence.lower()
-		sentence = sentence.translate(string.maketrans("",""), string.punctuation)
-		sentencelist = sentence.split()
+		# Formula (6) from Řehůřek and Kolkus (2009)
+		# Word relevance = SUM(gL(wi) << glang(wi)) fi · rel(wi, lang)
+		# Where rel(w, lang) = log(glang(w)) − log(g0(w))
+		
 		relevance = 0
 		for word in sentencelist:
 			wordinlangfreq = float(0.000000000001)
@@ -51,14 +90,19 @@ def getlang(sentence, data, allwords):
 				wordinlangfreq = float(data[abr]['words'][word])
 			if word in allwords:
 				wordincorpusfreq = float(allwords[word])
-			relevance += math.log(wordinlangfreq)
-			relevance -= math.log(wordincorpusfreq)
+			relevance += math.log(wordinlangfreq) - math.log(wordincorpusfreq)
+		
+		# Formula (7)
+		# (SUM(gL(wi) << glang(wi)) fi · rel(wi, lang)) / SUM(fi)
+		relevance = relevance / len(sentencelist)
+		
 		if bestrelevance < relevance:
 			bestrelevance = relevance
 			bestlang = abr
+		
 		relevanceCollection[abr] = relevance
 	relevanceCollection = sorted(relevanceCollection.items(), key=operator.itemgetter(1), reverse=True)
-	if (bestrelevance < 0.0 or (relevanceCollection[0][1] * 0.9) <= relevanceCollection[1][1]):
+	if (bestrelevance < 0.0 or (relevanceCollection[0][1] - relevanceCollection[1][1] <= 0.4)):
 		bestlang = 'unknown'
 	difference = relevanceCollection[0][1] - relevanceCollection[1][1]
 	return [bestlang,bestrelevance,difference,relevanceCollection]
@@ -88,16 +132,20 @@ def main(argv):
 	totalnumwords = 0
 	MAX_WORDS_PER_LANGUAGE = 50000
 
-	# Check the input
-	if (len(sys.argv) != 3):
-		print "Usage: python languageanalyzer.py <inputfile> <outputfile>"
-		exit(1)
-	inputfile = sys.argv[1]
-	outputfile = sys.argv[2]
+	global quiet
+	global verbose
+	
+	arguments = docopt(__doc__)
+	inputfile = arguments['INPUTFILE']
+	outputfile = arguments['OUTPUTFILE']
+	quiet = arguments['-q']
+	verbose = arguments['-v']
 	
 	# Calculate the total number of words in each language's frequency list
+	# We don't pre-calculate these, as we can change the number of words used
+	# from the dictionary to a number higher than some dictionaries have words
 	numfilesdone = 0
-	sys.stdout.write("Calculating dictionary sizes [%-20s] %d%%" % ('='*(0/5), 0))
+	printToConsole("Calculating dictionary sizes [%-20s] %d%%" % ('='*(0/5), 0))
 	for abr in langabbreviations:
 		data[abr] = {}
 		data[abr]['numwords'] = 0
@@ -113,13 +161,16 @@ def main(argv):
 		numfilesdone += 1
 		progress = float(numfilesdone) / float(len(langabbreviations)) * 100.0
 		progress = int(progress)
-		sys.stdout.write('\r')
-		sys.stdout.write("Calculating dictionary sizes [%-20s] %d%%" % ('='*(progress/5), progress))
-	sys.stdout.write('\n')
+		printToConsole("\rCalculating dictionary sizes [%-20s] %d%%" % ('='*(progress/5), progress))
+	printToConsole('\n')
 
-	numfilesdone = 0
-	sys.stdout.write("Calculating word frequencies [%-20s] %d%%" % ('='*(0/5), 0))
 	# Calculate each word's uncorrected observed frequency
+	# Formula (1): g[lang](w) = TF(w, C[lang]) / #(C[lang])
+	# with #(C) being the total number of words in corpus C
+	# and TF the number of occurences of a word in a corpus
+	# and g[0](w) = TF(w, C[0]) / #(C[0])
+	numfilesdone = 0
+	printToConsole("Calculating word frequencies [%-20s] %d%%" % ('='*(0/5), 0))
 	for abr in langabbreviations:
 		data[abr]['words'] = {}
 		filename = 'dict/' + abr + '.txt'
@@ -138,9 +189,8 @@ def main(argv):
 		numfilesdone += 1
 		progress = float(numfilesdone) / float(len(langabbreviations)) * 100.0
 		progress = int(progress)
-		sys.stdout.write('\r')
-		sys.stdout.write("Calculating word frequencies [%-20s] %d%%" % ('='*(progress/5), progress))
-	sys.stdout.write('\n')
+		printToConsole("\rCalculating word frequencies [%-20s] %d%%" % ('='*(progress/5), progress))
+	printToConsole('\n')
 
 	# Turn the total word frequencies into a weighted frequency
 	for word in allwords:
@@ -148,7 +198,7 @@ def main(argv):
 		allwords[word] = float(count) / totalnumwords
 
 	numlinesdone = 0
-	sys.stdout.write("Checking sentences [%-20s] %d%%" % ('='*(0/5), 0))
+	printToConsole("Checking sentences [%-20s] %d%%" % ('='*(0/5), 0))
 	badsentences = []
 	numcorrect = 0
 	numincorrect = 0
@@ -173,20 +223,17 @@ def main(argv):
 			numcorrect += 1
 		elif reallang != estlang:
 			numincorrect += 1
-			badsentences.append([sentence, difference, reallang, estlang, estrelevance, id])
+			badsentences.append([sentence, difference, reallang, estlang, estrelevance, id, l[3]])
+
 		numlinesdone += 1
 		if (numlinesdone % 1000 == 0):
 			progress = float(numlinesdone) / float(num_lines) * 100.0
 			progress = int(progress)
-			sys.stdout.write('\r')
-			sys.stdout.write("Checking sentences [%-20s] %d%%" % ('='*(progress/5), progress))
-	sys.stdout.write('\r')
-	sys.stdout.write("Checking sentences [%-20s] %d%%" % ('='*(100/5), 100))
-	sys.stdout.write('\n')
+			printToConsole("\rChecking sentences [%-20s] %d%%" % ('='*(progress/5), progress))
+	printToConsole("\rChecking sentences [%-20s] %d%%\n" % ('='*(100/5), 100))
 	f.close()
 
 	outf = open(outputfile, 'w')
-
 	outf.write(str(numcorrect) + ' correct, ' + str(numincorrect) + ' incorrect, ' + str(numunknown) + ' unknown\n')
 	outf.write('\n')
 	badsentences.sort(key=lambda tup: tup[1], reverse=True)
@@ -195,6 +242,10 @@ def main(argv):
 		outf.write("\tCurrent Language: " + codetolang[b[2]] + '\n')
 		outf.write("\tSuggested Language: " + codetolang[b[3]] + '\n')
 		outf.write("\tURL: http://tatoeba.org/eng/sentences/show/" + b[5] + '\n\n')
+		if (verbose):
+			for pair in b[6]:
+				outf.write("\t" + codetolang[pair[0]].ljust(15) + " " + str(pair[1]) + '\n')
+			outf.write("\n")
 
 if __name__ == "__main__":
     main(sys.argv)
