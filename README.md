@@ -6,7 +6,9 @@ The Tatoeba corpus is a large, open source collection of short sentences and the
 Requirements:
 
 Python 2.7
+
 docopt plugin
+
 
 Usage:
 
@@ -14,7 +16,7 @@ Usage:
 
 2. Run the script.
 
-Usage: languageanalyzer.py [-vqh] INPUTFILE OUTPUTFILE
+languageanalyzer.py [-vqh] INPUTFILE OUTPUTFILE
 
 Process FILE and optionally apply correction to either left-hand side or
 right-hand side.
@@ -27,6 +29,7 @@ Options:
   -h --help
   -v       verbose mode
   -q       quiet mode
+
 
 Understanding the output:
 
