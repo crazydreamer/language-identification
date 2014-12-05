@@ -5,9 +5,8 @@ The Tatoeba corpus is a large, open source collection of short sentences and the
 
 Requirements:
 
-Python 2.7
-
-docopt plugin
+	Python 2.7
+	docopt plugin
 
 
 Usage:
@@ -16,21 +15,21 @@ Usage:
 
 2. Run the script.
 
-languageanalyzer.py [-vqh] INPUTFILE OUTPUTFILE
+	languageanalyzer.py [-vqh] INPUTFILE OUTPUTFILE
 
-Process FILE and optionally apply correction to either left-hand side or
-right-hand side.
+	Process FILE and optionally apply correction to either left-hand side or
+	right-hand side.
 
-Arguments:
-  INPUTFILE     file containing tatoeba sentence list
-  OUTPUTFILE    name for the report file
+	Arguments:
+	  INPUTFILE     file containing tatoeba sentence list
+	  OUTPUTFILE    name for the report file
 
-Options:
-  -h --help
-  -v       verbose mode
-  -q       quiet mode
+	Options:
+	  -h --help
+	  -v       verbose mode
+	  -q       quiet mode
 
 
 Understanding the output:
 
-The output is written in order of most likely to least likely sentences to be translated incorrectly.
+	The output is written in order of most likely to least likely sentences to be translated incorrectly.
